@@ -20,8 +20,8 @@ end
     abbr gp 'git push'
     
     # Set up useful environment variables
-    set -gx EDITOR nano
-    set -gx VISUAL nano
+    set -gx EDITOR nvim
+    set -gx VISUAL nvim
 
     # Set up a nice pager for man pages
     set -gx MANPAGER 'less -X'
