@@ -26,9 +26,6 @@ end
     # Set up a nice pager for man pages
     set -gx MANPAGER 'less -X'
 
-    # Enable universal variables for history sharing across sessions
-    set -U fish_history 5000
-
     # Add your custom functions or aliases here
 end
 
