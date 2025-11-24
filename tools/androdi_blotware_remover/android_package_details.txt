@@ -1,0 +1,3623 @@
+Package Details Dump
+Generated: 2025-11-09 17:59:51.964689
+================================================================================
+
+--- Package: com.android.camera ---
+User ID: 10144
+Data Directory: /data/user/0/com.android.camera
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.providers.media.module ---
+User ID: 10000
+Data Directory: /data/user/0/com.google.android.providers.media.module
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.permissioncontroller.forframework ---
+User ID: 10007
+Data Directory: /data/user/0/com.google.android.overlay.modules.permissioncontroller.forframework
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.aiengine ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.aiengine
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bbkmusic ---
+User ID: 10139
+Data Directory: /data/user/0/com.android.bbkmusic
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.soartech.shopswiftly.shopswiftly ---
+User ID: 10336
+Data Directory: /data/user/0/com.soartech.shopswiftly.shopswiftly
+First Install Time: 2025-03-02
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.upnpserver ---
+User ID: 10103
+Data Directory: /data/user/0/com.vivo.upnpserver
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.reddit.frontpage ---
+User ID: 10281
+Data Directory: /data/user/0/com.reddit.frontpage
+First Install Time: 2024-10-09
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.calllogbackup ---
+User ID: 10054
+Data Directory: /data/user/0/com.android.calllogbackup
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.updater ---
+User ID: 10137
+Data Directory: /data/user/0/com.bbk.updater
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.doubletimezoneclock ---
+User ID: 10125
+Data Directory: /data/user/0/com.vivo.doubletimezoneclock
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.email.partnerprovider ---
+User ID: 10085
+Data Directory: /data/user/0/com.android.email.partnerprovider
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.theme ---
+User ID: 10134
+Data Directory: /data/user/0/com.bbk.theme
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.atfwd ---
+User ID: 1001
+Data Directory: /data/user/0/com.qualcomm.atfwd
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.crontab ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.crontab
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.cne ---
+User ID: 10159
+Data Directory: /data/user_de/0/com.qualcomm.qti.cne
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.cota ---
+User ID: 10111
+Data Directory: /data/user_de/0/com.vivo.cota
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.linkedin.android ---
+User ID: 10255
+Data Directory: /data/user/0/com.linkedin.android
+First Install Time: 2024-09-30
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.comms ---
+User ID: 10023
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.comms
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.niksoftware.snapseed ---
+User ID: 10283
+Data Directory: /data/user/0/com.niksoftware.snapseed
+First Install Time: 2024-10-09
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.contacts ---
+User ID: 10054
+Data Directory: /data/user/0/com.android.providers.contacts
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.rapido.passenger ---
+User ID: 10248
+Data Directory: /data/user/0/com.rapido.passenger
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.nbu.files ---
+User ID: 10185
+Data Directory: /data/user/0/com.google.android.apps.nbu.files
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.uimremoteserver ---
+User ID: 10194
+Data Directory: /data/user/0/com.qualcomm.uimremoteserver
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.pasrservice ---
+User ID: 10163
+Data Directory: /data/user/0/com.qti.pasrservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.deniscerri.ytdl ---
+User ID: 10397
+Data Directory: /data/user/0/com.deniscerri.ytdl
+First Install Time: 2025-10-30
+Last Update Time: 2025-10-30
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.companiondevicemanager ---
+User ID: 10104
+Data Directory: /data/user/0/com.android.companiondevicemanager
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cts.priv.ctsshim ---
+User ID: 10232
+Data Directory: /data/user/0/com.android.cts.priv.ctsshim
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.calendar ---
+User ID: 10192
+Data Directory: /data/user/0/com.google.android.calendar
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.mms.service ---
+User ID: 1001
+Data Directory: /data/user/0/com.android.mms.service
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.fingerprintengineer ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.fingerprintengineer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.cellbroadcastreceiver ---
+User ID: 10227
+Data Directory: /data/user_de/0/com.google.android.cellbroadcastreceiver
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.downloads ---
+User ID: 10065
+Data Directory: /data/user/0/com.android.providers.downloads
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bluetoothmidiservice ---
+User ID: 10124
+Data Directory: /data/user/0/com.android.bluetoothmidiservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.twitter.android ---
+User ID: 10277
+Data Directory: /data/user/0/com.twitter.android
+First Install Time: 2024-10-26
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.photopicker ---
+User ID: 10236
+Data Directory: /data/user/0/com.google.android.photopicker
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.compass ---
+User ID: 10094
+Data Directory: /data/user/0/com.vivo.compass
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: net.skyscanner.android.main ---
+User ID: 10354
+Data Directory: /data/user/0/net.skyscanner.android.main
+First Install Time: 2025-04-25
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.ringclip ---
+User ID: 10100
+Data Directory: /data/user/0/com.ringclip
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.nobroker.app ---
+User ID: 10391
+Data Directory: /data/user/0/com.nobroker.app
+First Install Time: 2025-10-15
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.audiofx ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.audiofx
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.printservice.recommendation ---
+User ID: 10118
+Data Directory: /data/user/0/com.google.android.printservice.recommendation
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.captiveportallogin ---
+User ID: 10088
+Data Directory: /data/user/0/com.google.android.captiveportallogin
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.networkstack ---
+User ID: 1073
+Data Directory: /data/user_de/0/com.google.android.networkstack
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.keychain ---
+User ID: 1000
+Data Directory: /data/user/0/com.android.keychain
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.asi ---
+User ID: 10008
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.asi
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bbk.lockscreen3 ---
+User ID: 10110
+Data Directory: /data/user/0/com.android.bbk.lockscreen3
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.service.colorservice ---
+User ID: 10222
+Data Directory: /data/user/0/com.qti.service.colorservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.videoeditor ---
+User ID: 10131
+Data Directory: /data/user/0/com.vivo.videoeditor
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.wellbeing ---
+User ID: 10174
+Data Directory: /data/user/0/com.google.android.apps.wellbeing
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.devicestatisticsservice ---
+User ID: 10218
+Data Directory: /data/user/0/com.qualcomm.qti.devicestatisticsservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.shell ---
+User ID: 2000
+Data Directory: /data/user_de/0/com.android.shell
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.adservices.api ---
+User ID: 10240
+Data Directory: /data/user/0/com.google.android.adservices.api
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: ru.zdevs.zarchiver ---
+User ID: 10342
+Data Directory: /data/user/0/ru.zdevs.zarchiver
+First Install Time: 2025-04-02
+Last Update Time: 2025-04-02
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.sps ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.sps
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.inputdevices ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.android.inputdevices
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.appsearch.apk ---
+User ID: 10242
+Data Directory: /data/user/0/com.google.android.appsearch.apk
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.autoinstalls.config.vivo.devices ---
+User ID: 10102
+Data Directory: /data/user/0/android.autoinstalls.config.vivo.devices
+First Install Time: 2009-01-01
+Last Update Time: 2024-09-30
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.ondevicepersonalization.services ---
+User ID: 10234
+Data Directory: /data/user/0/com.google.android.ondevicepersonalization.services
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.qualcomm.datastatusnotification ---
+User ID: 1001
+Data Directory: /data/user/0/com.qti.qualcomm.datastatusnotification
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bookmarkprovider ---
+User ID: 10091
+Data Directory: /data/user/0/com.android.bookmarkprovider
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.dpmserviceapp ---
+User ID: 1001
+Data Directory: /data/user/0/com.qti.dpmserviceapp
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.funtouch.uiengine ---
+User ID: 10108
+Data Directory: /data/user/0/com.funtouch.uiengine
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.onetimeinitializer ---
+User ID: 10170
+Data Directory: /data/user/0/com.google.android.onetimeinitializer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.assistantfunction ---
+User ID: 10092
+Data Directory: /data/user/0/com.vivo.assistantfunction
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.docs.editors.slides ---
+User ID: 10269
+Data Directory: /data/user/0/com.google.android.apps.docs.editors.slides
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.nextbillion.groww ---
+User ID: 10260
+Data Directory: /data/user/0/com.nextbillion.groww
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-15
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.permissioncontroller ---
+User ID: 10239
+Data Directory: /data/user_de/0/com.google.android.permissioncontroller
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.share ---
+User ID: 10058
+Data Directory: /data/user/0/com.vivo.share
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.nttouchscreen.mptest ---
+User ID: 10145
+Data Directory: /data/user_de/0/com.nttouchscreen.mptest
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.appstore ---
+User ID: 10056
+Data Directory: /data/user/0/com.vivo.appstore
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.sharedstoragebackup ---
+User ID: 10071
+Data Directory: /data/user/0/com.android.sharedstoragebackup
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: in.stablemoney.app ---
+User ID: 10247
+Data Directory: /data/user/0/in.stablemoney.app
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.monochromeicons ---
+User ID: 10152
+Data Directory: /data/user/0/com.vivo.monochromeicons
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.uimGbaApp ---
+User ID: 10184
+Data Directory: /data/user/0/com.qualcomm.qti.uimGbaApp
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.ridemodeaudio ---
+User ID: 10183
+Data Directory: /data/user/0/com.qualcomm.qti.ridemodeaudio
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.media ---
+User ID: 10065
+Data Directory: /data/user/0/com.android.providers.media
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.calendar ---
+User ID: 10053
+Data Directory: /data/user/0/com.android.providers.calendar
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.incallui ---
+User ID: 10086
+Data Directory: /data/user_de/0/com.android.incallui
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.blockednumber ---
+User ID: 10054
+Data Directory: /data/user_de/0/com.android.providers.blockednumber
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.documentsui ---
+User ID: 10078
+Data Directory: /data/user/0/com.google.android.documentsui
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.share.overlay ---
+User ID: 10041
+Data Directory: /data/user/0/com.vivo.share.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.smartmultiwindow ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.smartmultiwindow
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.documentsui ---
+User ID: 10006
+Data Directory: /data/user/0/com.google.android.overlay.modules.documentsui
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.smartshot ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.smartshot
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.proxyhandler ---
+User ID: 10048
+Data Directory: /data/user_de/0/com.android.proxyhandler
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.modemtestmode ---
+User ID: 1001
+Data Directory: /data/user/0/com.qualcomm.qti.modemtestmode
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.vivo3rdalgoservice ---
+User ID: 10129
+Data Directory: /data/user/0/com.vivo.vivo3rdalgoservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.permissioncontroller ---
+User ID: 10017
+Data Directory: /data/user/0/com.google.android.overlay.modules.permissioncontroller
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.setupwizard ---
+User ID: 10076
+Data Directory: /data/user_de/0/com.vivo.setupwizard
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cellbroadcastreceiver.overlay.common ---
+User ID: 10030
+Data Directory: /data/user/0/com.android.cellbroadcastreceiver.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.authenticator2 ---
+User ID: 10258
+Data Directory: /data/user/0/com.google.android.apps.authenticator2
+First Install Time: 2024-09-30
+Last Update Time: 2025-06-17
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.managedprovisioning ---
+User ID: 10067
+Data Directory: /data/user/0/com.android.managedprovisioning
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.emergency ---
+User ID: 10219
+Data Directory: /data/user_de/0/com.android.emergency
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.gms.location.history ---
+User ID: 10187
+Data Directory: /data/user/0/com.google.android.gms.location.history
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.chess ---
+User ID: 10266
+Data Directory: /data/user/0/com.chess
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.googleassistant ---
+User ID: 10186
+Data Directory: /data/user/0/com.google.android.apps.googleassistant
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.notes ---
+User ID: 10116
+Data Directory: /data/user/0/com.vivo.notes
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: md.obsidian ---
+User ID: 10325
+Data Directory: /data/user/0/md.obsidian
+First Install Time: 2025-03-01
+Last Update Time: 2025-10-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.location ---
+User ID: 10217
+Data Directory: /data/user/0/com.qualcomm.location
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.gm ---
+User ID: 10204
+Data Directory: /data/user/0/com.google.android.gm
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.carrierdefaultapp ---
+User ID: 10084
+Data Directory: /data/user/0/com.android.carrierdefaultapp
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.backupconfirm ---
+User ID: 10073
+Data Directory: /data/user/0/com.android.backupconfirm
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.tachyon ---
+User ID: 10196
+Data Directory: /data/user/0/com.google.android.apps.tachyon
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.account ---
+User ID: 10089
+Data Directory: /data/user/0/com.bbk.account
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.carrierconfig.overlay.common ---
+User ID: 10004
+Data Directory: /data/user/0/com.android.carrierconfig.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.mtp ---
+User ID: 10065
+Data Directory: /data/user/0/com.android.mtp
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.gsf ---
+User ID: 10177
+Data Directory: /data/user/0/com.google.android.gsf
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.cloud.overlay ---
+User ID: 10044
+Data Directory: /data/user/0/com.bbk.cloud.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.weather ---
+User ID: 10109
+Data Directory: /data/user/0/com.vivo.weather
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.networkstack.overlay.vivo ---
+User ID: 10042
+Data Directory: /data/user/0/com.google.android.networkstack.overlay.vivo
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.floatingball ---
+User ID: 10098
+Data Directory: /data/user/0/com.vivo.floatingball
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.display.cutout.emulation.double ---
+User ID: 10011
+Data Directory: /data/user/0/com.android.internal.display.cutout.emulation.double
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.theme.font.notoserifsource ---
+User ID: 10020
+Data Directory: /data/user/0/com.android.theme.font.notoserifsource
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.remoteSimlockAuth ---
+User ID: 10179
+Data Directory: /data/user/0/com.qualcomm.qti.remoteSimlockAuth
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.server.telecom.overlay.common ---
+User ID: 10001
+Data Directory: /data/user/0/com.android.server.telecom.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.ar.lens ---
+User ID: 10113
+Data Directory: /data/user/0/com.google.ar.lens
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-16
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.ltebc ---
+User ID: 10207
+Data Directory: /data/user/0/com.qti.ltebc
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.vibrator4d ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.vibrator4d
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vlife.vivo.wallpaper ---
+User ID: 10106
+Data Directory: /data/user/0/com.vlife.vivo.wallpaper
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.focaltech.deltadiff ---
+User ID: 10126
+Data Directory: /data/user/0/com.focaltech.deltadiff
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.grofers.customerapp ---
+User ID: 10276
+Data Directory: /data/user/0/com.grofers.customerapp
+First Install Time: 2024-10-03
+Last Update Time: 2025-10-20
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.xrvd.service ---
+User ID: 1000
+Data Directory: /data/user/0/com.qualcomm.qti.xrvd.service
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bigbasket.mobileapp ---
+User ID: 10297
+Data Directory: /data/user/0/com.bigbasket.mobileapp
+First Install Time: 2024-11-13
+Last Update Time: 2025-10-20
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.xrcb ---
+User ID: 10206
+Data Directory: /data/user/0/com.qualcomm.qti.xrcb
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.browser ---
+User ID: 10062
+Data Directory: /data/user/0/com.android.browser
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.upslide ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.upslide
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.docs.editors.sheets ---
+User ID: 10270
+Data Directory: /data/user/0/com.google.android.apps.docs.editors.sheets
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.kadambasociety ---
+User ID: 10272
+Data Directory: /data/user/0/com.kadambasociety
+First Install Time: 2024-10-02
+Last Update Time: 2025-08-16
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.systemui ---
+User ID: 10063
+Data Directory: /data/user_de/0/com.android.systemui
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wallpapercropper ---
+User ID: 10215
+Data Directory: /data/user/0/com.android.wallpapercropper
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.ar.core ---
+User ID: 10135
+Data Directory: /data/user/0/com.google.ar.core
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.nttouchscreen.getdata ---
+User ID: 10082
+Data Directory: /data/user/0/com.nttouchscreen.getdata
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.weather.provider ---
+User ID: 10130
+Data Directory: /data/user/0/com.vivo.weather.provider
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.widget.cleanspeed ---
+User ID: 10153
+Data Directory: /data/user/0/com.vivo.widget.cleanspeed
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.geotz ---
+User ID: 10032
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.geotz
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.minscreen ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.minscreen
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.systemui.navbar.gestural ---
+User ID: 10025
+Data Directory: /data/user/0/com.android.internal.systemui.navbar.gestural
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.netflix.mediaclient ---
+User ID: 10105
+Data Directory: /data/user/0/com.netflix.mediaclient
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.piazza.android ---
+User ID: 10395
+Data Directory: /data/user/0/com.piazza.android
+First Install Time: 2025-10-27
+Last Update Time: 2025-10-27
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.livewallpaper.plant ---
+User ID: 10147
+Data Directory: /data/user/0/com.vivo.livewallpaper.plant
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.dcf ---
+User ID: 10216
+Data Directory: /data/user/0/com.qti.dcf
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.mainline.adservices ---
+User ID: 10182
+Data Directory: /data/user/0/com.google.mainline.adservices
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.settings.intelligence ---
+User ID: 10064
+Data Directory: /data/user/0/com.android.settings.intelligence
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.timeservice ---
+User ID: 10160
+Data Directory: /data/user/0/com.qualcomm.timeservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.desmos.calculator ---
+User ID: 10257
+Data Directory: /data/user/0/com.desmos.calculator
+First Install Time: 2024-11-22
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.qcolor ---
+User ID: 10226
+Data Directory: /data/user/0/com.qualcomm.qti.qcolor
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: org.kde.kdeconnect_tp ---
+User ID: 10369
+Data Directory: /data/user/0/org.kde.kdeconnect_tp
+First Install Time: 2025-08-16
+Last Update Time: 2025-10-15
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.VideoPlayer ---
+User ID: 10158
+Data Directory: /data/user/0/com.android.VideoPlayer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.hotwordenrollment.okgoogle ---
+User ID: 10175
+Data Directory: /data/user/0/com.android.hotwordenrollment.okgoogle
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.techmash.playo ---
+User ID: 10280
+Data Directory: /data/user/0/com.techmash.playo
+First Install Time: 2024-10-09
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.faceui ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.faceui
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.hiboard ---
+User ID: 10155
+Data Directory: /data/user/0/com.vivo.hiboard
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.confuridialer ---
+User ID: 10199
+Data Directory: /data/user/0/com.qti.confuridialer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.camerasideas.instashot ---
+User ID: 10278
+Data Directory: /data/user/0/com.camerasideas.instashot
+First Install Time: 2024-10-05
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.calculator ---
+User ID: 10136
+Data Directory: /data/user/0/com.vivo.calculator
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.wfd.service ---
+User ID: 10208
+Data Directory: /data/user/0/com.qualcomm.wfd.service
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.iqoo.engineermode ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.iqoo.engineermode
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.federatedcompute ---
+User ID: 10243
+Data Directory: /data/user/0/com.google.android.federatedcompute
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.webview ---
+User ID: 10198
+Data Directory: /data/user/0/com.google.android.webview
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.epm ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.epm
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.sdksandbox ---
+User ID: 10241
+Data Directory: /data/user/0/com.google.android.sdksandbox
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.olacabs.customer ---
+User ID: 10249
+Data Directory: /data/user/0/com.olacabs.customer
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.deskclock ---
+User ID: 10096
+Data Directory: /data/user/0/com.android.deskclock
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wallpaperbackup ---
+User ID: 1000
+Data Directory: /data/user/0/com.android.wallpaperbackup
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.cellbroadcastservice ---
+User ID: 1073
+Data Directory: /data/user_de/0/com.google.android.cellbroadcastservice
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.overlay.vrro ---
+User ID: 10037
+Data Directory: /data/user/0/android.overlay.vrro
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.Splitwise.SplitwiseMobile ---
+User ID: 10301
+Data Directory: /data/user/0/com.Splitwise.SplitwiseMobile
+First Install Time: 2024-11-16
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.systemui.navbar.threebutton ---
+User ID: 10033
+Data Directory: /data/user/0/com.android.internal.systemui.navbar.threebutton
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.egg ---
+User ID: 10119
+Data Directory: /data/user/0/com.android.egg
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.unionpay ---
+User ID: 10151
+Data Directory: /data/user/0/com.vivo.unionpay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.iqoo.website ---
+User ID: 10120
+Data Directory: /data/user/0/com.iqoo.website
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.localtransport ---
+User ID: 1000
+Data Directory: /data/user/0/com.android.localtransport
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.smq ---
+User ID: 10162
+Data Directory: /data/user_de/0/com.qualcomm.qti.smq
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android ---
+User ID: 1000
+Data Directory: /data/system
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.pem ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.pem
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.modulemetadata.forframework ---
+User ID: 10034
+Data Directory: /data/user/0/com.google.android.overlay.modules.modulemetadata.forframework
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.whereismytrain.android ---
+User ID: 10251
+Data Directory: /data/user/0/com.whereismytrain.android
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.hotwordenrollment.xgoogle ---
+User ID: 10171
+Data Directory: /data/user/0/com.android.hotwordenrollment.xgoogle
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.fuelsummary ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.fuelsummary
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.game ---
+User ID: 10114
+Data Directory: /data/user/0/com.vivo.game
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.dynamicddsservice ---
+User ID: 1001
+Data Directory: /data/user/0/com.qualcomm.qti.dynamicddsservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.ttxapps.drivesync ---
+User ID: 10271
+Data Directory: /data/user/0/com.ttxapps.drivesync
+First Install Time: 2025-05-23
+Last Update Time: 2025-10-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.gamecube ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.gamecube
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: org.mozilla.fenix ---
+User ID: 10357
+Data Directory: /data/user/0/org.mozilla.fenix
+First Install Time: 2025-04-27
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: org.cris.aikyam ---
+User ID: 10393
+Data Directory: /data/user/0/org.cris.aikyam
+First Install Time: 2025-10-24
+Last Update Time: 2025-10-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: music.ytstream.youtify ---
+User ID: 10289
+Data Directory: /data/user/0/music.ytstream.youtify
+First Install Time: 2025-03-27
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.engineercamera ---
+User ID: 10149
+Data Directory: /data/user/0/com.vivo.engineercamera
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.packageinstaller ---
+User ID: 10055
+Data Directory: /data/user_de/0/com.google.android.packageinstaller
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.se ---
+User ID: 1068
+Data Directory: /data/user/0/com.android.se
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.pacprocessor ---
+User ID: 10143
+Data Directory: /data/user_de/0/com.android.pacprocessor
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.medium.reader ---
+User ID: 10292
+Data Directory: /data/user/0/com.medium.reader
+First Install Time: 2024-11-10
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.adobe.psmobile ---
+User ID: 10274
+Data Directory: /data/user/0/com.adobe.psmobile
+First Install Time: 2024-10-02
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: net.one97.paytm ---
+User ID: 10261
+Data Directory: /data/user/0/net.one97.paytm
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.embms ---
+User ID: 10224
+Data Directory: /data/user/0/com.qualcomm.embms
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.aimchess ---
+User ID: 10310
+Data Directory: /data/user/0/com.aimchess
+First Install Time: 2024-12-22
+Last Update Time: 2024-12-22
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.safetycenter.resources ---
+User ID: 10238
+Data Directory: /data/user_de/0/com.google.android.safetycenter.resources
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.imanager ---
+User ID: 10087
+Data Directory: /data/user/0/com.vivo.imanager
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.searchselector ---
+User ID: 10016
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.searchselector
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.youtube.music ---
+User ID: 10189
+Data Directory: /data/user/0/com.google.android.apps.youtube.music
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: org.lichess.mobileV2 ---
+User ID: 10375
+Data Directory: /data/user/0/org.lichess.mobileV2
+First Install Time: 2025-08-27
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.stk ---
+User ID: 1001
+Data Directory: /data/user/0/com.android.stk
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.gsma.rcs ---
+User ID: 10077
+Data Directory: /data/user/0/com.gsma.rcs
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.display.cutout.emulation.hole ---
+User ID: 10031
+Data Directory: /data/user/0/com.android.internal.display.cutout.emulation.hole
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.globalanimation ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.globalanimation
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.settings ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.android.settings
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bips ---
+User ID: 10079
+Data Directory: /data/user/0/com.android.bips
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.telephonyservice ---
+User ID: 10218
+Data Directory: /data/user/0/com.qualcomm.qti.telephonyservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: ch.protonmail.android ---
+User ID: 10262
+Data Directory: /data/user/0/ch.protonmail.android
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.partnersetup ---
+User ID: 10167
+Data Directory: /data/user/0/com.google.android.partnersetup
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-16
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.systemui.navbar.gestural_narrow_back ---
+User ID: 10012
+Data Directory: /data/user/0/com.android.internal.systemui.navbar.gestural_narrow_back
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.display.cutout.emulation.tall ---
+User ID: 10022
+Data Directory: /data/user/0/com.android.internal.display.cutout.emulation.tall
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.networkstack.tethering ---
+User ID: 1073
+Data Directory: /data/user_de/0/com.google.android.networkstack.tethering
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.projection.gearhead ---
+User ID: 10173
+Data Directory: /data/user/0/com.google.android.projection.gearhead
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cameraextensions ---
+User ID: 10095
+Data Directory: /data/user_de/0/com.android.cameraextensions
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.abe ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.abe
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.iqoo.logsystem ---
+User ID: 10142
+Data Directory: /data/user_de/0/com.bbk.iqoo.logsystem
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.microsoft.office.onenote ---
+User ID: 10372
+Data Directory: /data/user/0/com.microsoft.office.onenote
+First Install Time: 2025-08-19
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.video.floating ---
+User ID: 10051
+Data Directory: /data/user/0/com.vivo.video.floating
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.SmartKey ---
+User ID: 10133
+Data Directory: /data/user/0/com.vivo.SmartKey
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.carrierconfig ---
+User ID: 1001
+Data Directory: /data/user/0/com.android.carrierconfig
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.systemui.navbar.gestural_wide_back ---
+User ID: 10002
+Data Directory: /data/user/0/com.android.internal.systemui.navbar.gestural_wide_back
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.simcontacts ---
+User ID: 10225
+Data Directory: /data/user/0/com.qualcomm.qti.simcontacts
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.ext.shared ---
+User ID: 10080
+Data Directory: /data/user_de/0/com.google.android.ext.shared
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.bard ---
+User ID: 10353
+Data Directory: /data/user/0/com.google.android.apps.bard
+First Install Time: 2025-04-25
+Last Update Time: 2025-08-27
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.feedback ---
+User ID: 10205
+Data Directory: /data/user/0/com.google.android.feedback
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.flipkart.android ---
+User ID: 10254
+Data Directory: /data/user/0/com.flipkart.android
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: org.codeaurora.ims ---
+User ID: 10210
+Data Directory: /data/user/0/org.codeaurora.ims
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.remoteprovisioner ---
+User ID: 10214
+Data Directory: /data/user/0/com.android.remoteprovisioner
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.chrome ---
+User ID: 10202
+Data Directory: /data/user/0/com.android.chrome
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qcrilmsgtunnel ---
+User ID: 10218
+Data Directory: /data/user/0/com.qualcomm.qcrilmsgtunnel
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.globalsearch ---
+User ID: 10128
+Data Directory: /data/user_de/0/com.vivo.globalsearch
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.overlay.common ---
+User ID: 10009
+Data Directory: /data/user/0/android.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.gamewatch ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.gamewatch
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.maps ---
+User ID: 10201
+Data Directory: /data/user/0/com.google.android.apps.maps
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.labs.language.tailwind ---
+User ID: 10377
+Data Directory: /data/user/0/com.google.android.apps.labs.language.tailwind
+First Install Time: 2025-08-30
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.as ---
+User ID: 10166
+Data Directory: /data/user/0/com.google.android.as
+First Install Time: 2009-01-01
+Last Update Time: 2024-10-03
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.inputmethod.latin ---
+User ID: 10132
+Data Directory: /data/user/0/com.google.android.inputmethod.latin
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.microsoft.office.officelens ---
+User ID: 10352
+Data Directory: /data/user/0/com.microsoft.office.officelens
+First Install Time: 2025-04-24
+Last Update Time: 2025-06-17
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.smspush ---
+User ID: 10223
+Data Directory: /data/user/0/com.android.smspush
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.marvin.talkback ---
+User ID: 10203
+Data Directory: /data/user/0/com.google.android.marvin.talkback
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: vendor.qti.hardware.cacert.server ---
+User ID: 10159
+Data Directory: /data/user_de/0/vendor.qti.hardware.cacert.server
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.whatsapp ---
+User ID: 10259
+Data Directory: /data/user/0/com.whatsapp
+First Install Time: 2024-09-30
+Last Update Time: 2025-11-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.tasks ---
+User ID: 10390
+Data Directory: /data/user/0/com.google.android.apps.tasks
+First Install Time: 2025-10-14
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: in.pricehistory.app ---
+User ID: 10305
+Data Directory: /data/user/0/in.pricehistory.app
+First Install Time: 2024-12-07
+Last Update Time: 2025-10-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.ons ---
+User ID: 1001
+Data Directory: /data/user/0/com.android.ons
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.cloud ---
+User ID: 10157
+Data Directory: /data/user/0/com.bbk.cloud
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.docs ---
+User ID: 10268
+Data Directory: /data/user/0/com.google.android.apps.docs
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.dialer ---
+User ID: 10066
+Data Directory: /data/user/0/com.android.dialer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.certinstaller ---
+User ID: 10050
+Data Directory: /data/user/0/com.android.certinstaller
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.pushservice ---
+User ID: 10101
+Data Directory: /data/user_de/0/com.vivo.pushservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.setupwizard ---
+User ID: 10220
+Data Directory: /data/user/0/com.google.android.setupwizard
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.uimremoteclient ---
+User ID: 10190
+Data Directory: /data/user/0/com.qualcomm.uimremoteclient
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.jio.myjio ---
+User ID: 10252
+Data Directory: /data/user/0/com.jio.myjio
+First Install Time: 2025-07-18
+Last Update Time: 2025-10-14
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wifi.resources ---
+User ID: 10229
+Data Directory: /data/user_de/0/com.android.wifi.resources
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wifi.dialog ---
+User ID: 10231
+Data Directory: /data/user/0/com.android.wifi.dialog
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.restore ---
+User ID: 10169
+Data Directory: /data/user/0/com.google.android.apps.restore
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.snapdragon.qdcm_ff ---
+User ID: 1000
+Data Directory: /data/user/0/com.qti.snapdragon.qdcm_ff
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.yozo.vivo.office.overlay ---
+User ID: 10040
+Data Directory: /data/user/0/com.yozo.vivo.office.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.overlay.vivoresrro ---
+User ID: 10038
+Data Directory: /data/user/0/android.overlay.vivoresrro
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.focaltouchscreen.sensortest ---
+User ID: 10150
+Data Directory: /data/user_de/0/com.focaltouchscreen.sensortest
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.simappdialog ---
+User ID: 10097
+Data Directory: /data/user/0/com.android.simappdialog
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.telephony ---
+User ID: 1001
+Data Directory: /data/user_de/0/com.android.providers.telephony
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.carrierlocation ---
+User ID: 10200
+Data Directory: /data/user/0/com.vivo.carrierlocation
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.systemui.overlay.common ---
+User ID: 10024
+Data Directory: /data/user/0/com.android.systemui.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.account.overlay ---
+User ID: 10045
+Data Directory: /data/user/0/com.bbk.account.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cellbroadcastservice.overlay ---
+User ID: 10014
+Data Directory: /data/user/0/com.android.cellbroadcastservice.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.tier2 ---
+User ID: 10026
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.tier2
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.gpudrivers.lito.api30 ---
+User ID: 10161
+Data Directory: /data/user/0/com.qualcomm.qti.gpudrivers.lito.api30
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.ewarranty ---
+User ID: 10148
+Data Directory: /data/user/0/com.vivo.ewarranty
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.poweroffalarm ---
+User ID: 10122
+Data Directory: /data/user_de/0/com.qualcomm.qti.poweroffalarm
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.display.cutout.emulation.waterfall ---
+User ID: 10003
+Data Directory: /data/user/0/com.android.internal.display.cutout.emulation.waterfall
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.quicinc.voice.activation ---
+User ID: 10212
+Data Directory: /data/user/0/com.quicinc.voice.activation
+First Install Time: 2009-01-01
+Last Update Time: 2024-10-03
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cellbroadcast.overlay ---
+User ID: 10018
+Data Directory: /data/user/0/com.android.cellbroadcast.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.settings ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.android.providers.settings
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: vendor.qti.iwlan ---
+User ID: 10159
+Data Directory: /data/user/0/vendor.qti.iwlan
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.phone ---
+User ID: 1001
+Data Directory: /data/user_de/0/com.android.phone
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.ext.services ---
+User ID: 10021
+Data Directory: /data/user/0/com.google.android.overlay.modules.ext.services
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.systemui.navbar.gestural_extra_wide_back ---
+User ID: 10029
+Data Directory: /data/user/0/com.android.internal.systemui.navbar.gestural_extra_wide_back
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.popoko.weiqi ---
+User ID: 10311
+Data Directory: /data/user/0/com.popoko.weiqi
+First Install Time: 2024-12-22
+Last Update Time: 2025-09-24
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.as.oss ---
+User ID: 10168
+Data Directory: /data/user/0/com.google.android.as.oss
+First Install Time: 2009-01-01
+Last Update Time: 2025-01-10
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.bbk.theme.resources ---
+User ID: 10083
+Data Directory: /data/user/0/com.bbk.theme.resources
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.contacts ---
+User ID: 10061
+Data Directory: /data/user/0/com.android.contacts
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.nt36xxxtouchscreen.deltadiff ---
+User ID: 10138
+Data Directory: /data/user/0/com.nt36xxxtouchscreen.deltadiff
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.azure.authenticator ---
+User ID: 10245
+Data Directory: /data/user/0/com.azure.authenticator
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.browser.overlay ---
+User ID: 10046
+Data Directory: /data/user/0/com.vivo.browser.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.desktopstickers ---
+User ID: 10052
+Data Directory: /data/user/0/com.vivo.desktopstickers
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.location.fused ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.android.location.fused
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.vpndialogs ---
+User ID: 10059
+Data Directory: /data/user/0/com.android.vpndialogs
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.uwb.resources ---
+User ID: 10228
+Data Directory: /data/user_de/0/com.android.uwb.resources
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.systemui.plugin.globalactions.wallet ---
+User ID: 10211
+Data Directory: /data/user/0/com.android.systemui.plugin.globalactions.wallet
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.gallery ---
+User ID: 10154
+Data Directory: /data/user/0/com.vivo.gallery
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.photos ---
+User ID: 10013
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.photos
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.snapwork.hdfc ---
+User ID: 10244
+Data Directory: /data/user/0/com.snapwork.hdfc
+First Install Time: 2024-09-30
+Last Update Time: 2025-07-28
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.docs.editors.docs ---
+User ID: 10267
+Data Directory: /data/user/0/com.google.android.apps.docs.editors.docs
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.tts ---
+User ID: 10191
+Data Directory: /data/user/0/com.google.android.tts
+First Install Time: 2009-01-01
+Last Update Time: 2024-10-03
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.googlequicksearchbox ---
+User ID: 10178
+Data Directory: /data/user/0/com.google.android.googlequicksearchbox
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.modulemetadata ---
+User ID: 10197
+Data Directory: /data/user/0/com.google.android.modulemetadata
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.settings.overlay.common ---
+User ID: 10035
+Data Directory: /data/user/0/com.android.settings.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wifi.resources.overlay.common ---
+User ID: 10028
+Data Directory: /data/user/0/com.android.wifi.resources.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.phone.overlay.common ---
+User ID: 10015
+Data Directory: /data/user/0/com.android.phone.overlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.idea.videocompress ---
+User ID: 10282
+Data Directory: /data/user/0/com.idea.videocompress
+First Install Time: 2024-10-09
+Last Update Time: 2025-08-27
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.scanner ---
+User ID: 10112
+Data Directory: /data/user/0/com.vivo.scanner
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.soundrecorder ---
+User ID: 10107
+Data Directory: /data/user/0/com.vivo.soundrecorder
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.omacp ---
+User ID: 1001
+Data Directory: /data/user/0/com.vivo.omacp
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.htmlviewer ---
+User ID: 10081
+Data Directory: /data/user/0/com.android.htmlviewer
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qti.qualcomm.deviceinfo ---
+User ID: 1001
+Data Directory: /data/user/0/com.qti.qualcomm.deviceinfo
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.vending ---
+User ID: 10176
+Data Directory: /data/user/0/com.android.vending
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-04
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.daemonService.overlay ---
+User ID: 10039
+Data Directory: /data/user/0/com.vivo.daemonService.overlay
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.ext.services ---
+User ID: 10237
+Data Directory: /data/user/0/com.google.android.ext.services
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.configupdater ---
+User ID: 10165
+Data Directory: /data/user/0/com.google.android.configupdater
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.modules.captiveportallogin.forframework ---
+User ID: 10036
+Data Directory: /data/user/0/com.google.android.overlay.modules.captiveportallogin.forframework
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.qvaoverlay.common ---
+User ID: 10019
+Data Directory: /data/user/0/android.qvaoverlay.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vgfit.yoga ---
+User ID: 10314
+Data Directory: /data/user/0/com.vgfit.yoga
+First Install Time: 2025-01-01
+Last Update Time: 2025-08-16
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: android.overlay.target ---
+User ID: 10043
+Data Directory: /data/user/0/android.overlay.target
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.musicwidgetmix ---
+User ID: 10127
+Data Directory: /data/user/0/com.vivo.musicwidgetmix
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.gamepad ---
+User ID: 10074
+Data Directory: /data/user/0/com.vivo.gamepad
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.fingerprintui ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.fingerprintui
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.mms ---
+User ID: 10072
+Data Directory: /data/user/0/com.android.mms
+First Install Time: 2009-01-01
+Last Update Time: 2025-07-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.assistant ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.assistant
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.gms.supervision ---
+User ID: 10164
+Data Directory: /data/user/0/com.google.android.gms.supervision
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.gsa ---
+User ID: 10010
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.gsa
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.appfilter ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.appfilter
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.userdictionary ---
+User ID: 10054
+Data Directory: /data/user/0/com.android.providers.userdictionary
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.launcher3 ---
+User ID: 10156
+Data Directory: /data/user_de/0/com.android.launcher3
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.overlay.gmsconfig.common ---
+User ID: 10027
+Data Directory: /data/user/0/com.google.android.overlay.gmsconfig.common
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.cts.ctsshim ---
+User ID: 10233
+Data Directory: /data/user/0/com.android.cts.ctsshim
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.photos ---
+User ID: 10193
+Data Directory: /data/user/0/com.google.android.apps.photos
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.bluetooth ---
+User ID: 1002
+Data Directory: /data/user_de/0/com.android.bluetooth
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.widget.gallery ---
+User ID: 10154
+Data Directory: /data/user/0/com.vivo.widget.gallery
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.discord ---
+User ID: 10284
+Data Directory: /data/user/0/com.discord
+First Install Time: 2024-10-09
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.workloadclassifier ---
+User ID: 10221
+Data Directory: /data/user/0/com.qualcomm.qti.workloadclassifier
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.internal.display.cutout.emulation.corner ---
+User ID: 10005
+Data Directory: /data/user/0/com.android.internal.display.cutout.emulation.corner
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.gms ---
+User ID: 10177
+Data Directory: /data/user/0/com.google.android.gms
+First Install Time: 2009-01-01
+Last Update Time: 2025-11-08
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.storagemanager ---
+User ID: 10209
+Data Directory: /data/user/0/com.android.storagemanager
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.numbermark ---
+User ID: 10069
+Data Directory: /data/user_de/0/com.vivo.numbermark
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.digital.bsnl.selfcare ---
+User ID: 10394
+Data Directory: /data/user/0/com.digital.bsnl.selfcare
+First Install Time: 2025-10-26
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.daemonService ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.daemonService
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.doubleinstance ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.vivo.doubleinstance
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.widgetweather ---
+User ID: 10140
+Data Directory: /data/user/0/com.vivo.widgetweather
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: notion.id ---
+User ID: 10279
+Data Directory: /data/user/0/notion.id
+First Install Time: 2024-10-09
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.printspooler ---
+User ID: 10141
+Data Directory: /data/user/0/com.android.printspooler
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: sixpack.sixpackabs.absworkout ---
+User ID: 10298
+Data Directory: /data/user/0/sixpack.sixpackabs.absworkout
+First Install Time: 2024-11-13
+Last Update Time: 2025-07-18
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.wifi.resources.overlay.target ---
+User ID: 10047
+Data Directory: /data/user/0/com.android.wifi.resources.overlay.target
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.seccamservice ---
+User ID: 10213
+Data Directory: /data/user/0/com.qualcomm.qti.seccamservice
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.adobe.scan.android ---
+User ID: 10275
+Data Directory: /data/user/0/com.adobe.scan.android
+First Install Time: 2024-10-03
+Last Update Time: 2025-10-26
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.apps.setupwizard.searchselector ---
+User ID: 10172
+Data Directory: /data/user/0/com.google.android.apps.setupwizard.searchselector
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.qualcomm.qti.uim ---
+User ID: 10188
+Data Directory: /data/user/0/com.qualcomm.qti.uim
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.networkstate ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.networkstate
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.providers.partnerbookmarks ---
+User ID: 10117
+Data Directory: /data/user/0/com.android.providers.partnerbookmarks
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.soundpicker ---
+User ID: 10065
+Data Directory: /data/user/0/com.android.soundpicker
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.timerwidget ---
+User ID: 10093
+Data Directory: /data/user/0/com.vivo.timerwidget
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.mainline.telemetry ---
+User ID: 10180
+Data Directory: /data/user/0/com.google.mainline.telemetry
+First Install Time: 2009-01-01
+Last Update Time: 2025-08-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: io.metamask ---
+User ID: 10246
+Data Directory: /data/user/0/io.metamask
+First Install Time: 2024-09-30
+Last Update Time: 2025-10-15
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.vivo.bsptest ---
+User ID: 1000
+Data Directory: /data/user/0/com.vivo.bsptest
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.dynsystem ---
+User ID: 1000
+Data Directory: /data/user/0/com.android.dynsystem
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.hotspot2.osulogin ---
+User ID: 10230
+Data Directory: /data/user/0/com.android.hotspot2.osulogin
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.connectivity.resources ---
+User ID: 10235
+Data Directory: /data/user_de/0/com.google.android.connectivity.resources
+First Install Time: 1970-01-01
+Last Update Time: 1970-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.google.android.youtube ---
+User ID: 10195
+Data Directory: /data/user/0/com.google.android.youtube
+First Install Time: 2009-01-01
+Last Update Time: 2025-10-29
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.externalstorage ---
+User ID: 10057
+Data Directory: /data/user/0/com.android.externalstorage
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: vendor.qti.imsdatachannel ---
+User ID: 1001
+Data Directory: /data/user_de/0/vendor.qti.imsdatachannel
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A
+
+--- Package: com.android.server.telecom ---
+User ID: 1000
+Data Directory: /data/user_de/0/com.android.server.telecom
+First Install Time: 2009-01-01
+Last Update Time: 2009-01-01
+Package Flags: [
+Provider Authority: N/A
+Provider Path: N/A
+Queries Packages: N/A

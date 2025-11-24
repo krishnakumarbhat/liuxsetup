@@ -1,0 +1,546 @@
+
+=======================================================
+--- PACKAGE: com.medium.reader ---
+=======================================================
+    userId=10292
+    pkg=Package{8f45c01 com.medium.reader}
+    dataDir=/data/user/0/com.medium.reader
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: md.obsidian ---
+=======================================================
+    userId=10325
+    pkg=Package{acb9f22 md.obsidian}
+    dataDir=/data/user/0/md.obsidian
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.adobe.psmobile ---
+=======================================================
+    userId=10274
+    pkg=Package{e84ac1e com.adobe.psmobile}
+    dataDir=/data/user/0/com.adobe.psmobile
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.popoko.weiqi ---
+=======================================================
+    userId=10311
+    pkg=Package{b515682 com.popoko.weiqi}
+    dataDir=/data/user/0/com.popoko.weiqi
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+        /data/user/0/com.popoko.weiqi/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+        /data/user/0/com.popoko.weiqi/app_pccache/5/9FBDD345953D30CBE8A82AF9F1E31DE54C8035AE/pcam.jar
+
+=======================================================
+--- PACKAGE: net.one97.paytm ---
+=======================================================
+    userId=10261
+    pkg=Package{1ca0d2b net.one97.paytm}
+    dataDir=/data/user/0/net.one97.paytm
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+      [com.android.providers.blockednumber,com.android.providers.contacts,com.android.providers.userdictionary,com.android.calllogbackup]:
+
+=======================================================
+--- PACKAGE: com.aimchess ---
+=======================================================
+    userId=10310
+    pkg=Package{dcb751d com.aimchess}
+    dataDir=/data/user/0/com.aimchess
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: org.lichess.mobileV2 ---
+=======================================================
+    userId=10375
+    pkg=Package{e5b17d5 org.lichess.mobileV2}
+    dataDir=/data/user/0/org.lichess.mobileV2
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.soartech.shopswiftly.shopswiftly ---
+=======================================================
+    userId=10336
+    pkg=Package{2cf518c com.soartech.shopswiftly.shopswiftly}
+    dataDir=/data/user/0/com.soartech.shopswiftly.shopswiftly
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+        /data/user/0/com.soartech.shopswiftly.shopswiftly/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+        /data/user/0/com.soartech.shopswiftly.shopswiftly/app_pccache/5/810F5A86753F2AB0014C00665AC02DEEDA0B7E33/pcam.jar
+
+=======================================================
+--- PACKAGE: com.azure.authenticator ---
+=======================================================
+    userId=10245
+    pkg=Package{3613d33 com.azure.authenticator}
+    queriesPackages=[com.microsoft.intune, com.microsoft.intune.aospagent, com.microsoft.office.outlook, com.microsoft.office.outlook.dawg, com.microsoft.scmx, com.microsoft.windowsintune.companyportal, com.microsoft.emmx, com.azure.authenticator, com.microsoft.identity.testuserapp, com.microsoft.mockauthapp, com.microsoft.mockcp, com.microsoft.mockltw, com.microsoft.appmanager, com.google.android.apps.maps]
+    dataDir=/data/user/0/com.azure.authenticator
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.reddit.frontpage ---
+=======================================================
+    userId=10281
+    pkg=Package{e893f04 com.reddit.frontpage}
+    dataDir=/data/user/0/com.reddit.frontpage
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: ch.protonmail.android ---
+=======================================================
+    userId=10262
+    pkg=Package{f4c188a ch.protonmail.android}
+    dataDir=/data/user/0/ch.protonmail.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.snapwork.hdfc ---
+=======================================================
+    userId=10244
+    pkg=Package{a53a175 com.snapwork.hdfc}
+    dataDir=/data/user/0/com.snapwork.hdfc
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.docs.editors.docs ---
+=======================================================
+    userId=10267
+    pkg=Package{a219e8c com.google.android.apps.docs.editors.docs}
+    dataDir=/data/user/0/com.google.android.apps.docs.editors.docs
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.idea.videocompress ---
+=======================================================
+    userId=10282
+    pkg=Package{ba25bca com.idea.videocompress}
+    dataDir=/data/user/0/com.idea.videocompress
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.linkedin.android ---
+=======================================================
+    userId=10255
+    pkg=Package{2758dd3 com.linkedin.android}
+    dataDir=/data/user/0/com.linkedin.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.microsoft.office.onenote ---
+=======================================================
+    userId=10372
+    pkg=Package{aa2c0c9 com.microsoft.office.onenote}
+    queriesPackages=[com.microsoft.windowsintune.companyportal, com.azure.authenticator, com.microsoft.identity.testuserapp, com.microsoft.mockauthapp, com.microsoft.mockcp, com.microsoft.mockltw, com.microsoft.appmanager]
+    dataDir=/data/user/0/com.microsoft.office.onenote
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+Shared users:
+    userId=10372
+
+=======================================================
+--- PACKAGE: com.niksoftware.snapseed ---
+=======================================================
+    userId=10283
+    pkg=Package{68cc001 com.niksoftware.snapseed}
+    dataDir=/data/user/0/com.niksoftware.snapseed
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.rapido.passenger ---
+=======================================================
+          Authority: "user_preferences": -1
+          Authority: "user_preferences": -1
+    userId=10248
+    pkg=Package{bd955de com.rapido.passenger}
+    queriesPackages=[com.google.android.apps.nbu.paisa.user, com.phonepe.app, in.org.npci.upiapp, net.one97.paytm, com.dreamplug.androidapp, com.IndianBank.IndOASIS, com.snapwork.hdfc, air.app.scb.breeze.android.main.in.prod, in.amazon.mShop.android.shopping, com.upi.axispay, com.enstage.wibmo.hdfc, com.whatsapp, cred_InApp, com.csam.icici.bank.imobile, com.freecharge.android, com.myairtelapp, com.bankofbaroda.upi, com.icicibank.pockets, com.android.chrome, com.tatadigital.tcp.dev, com.tatadigital.tcp, com.pubmatic.openwrapapp, com.google.android.apps.maps, com.facebook.katana, com.instagram.android, com.facebook.lite, com.samsung.android.mapsagent]
+    queriesIntents=[Intent { act=android.intent.action.SENDTO dat=mailto:xx }, Intent { act=android.intent.action.VIEW dat=https:/... }, Intent { act=android.intent.action.VIEW dat=geo:/... }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:/... }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=android.intent.action.INSERT dat=content://*/... typ=vnd.android.cursor.dir/event }, Intent { act=android.intent.action.VIEW dat=sms:xx }, Intent { act=android.intent.action.DIAL }, Intent { act=com.amazon.mShop.kuber.service.PREFETCH_SERVICE }, Intent { dat=upi://pay/... }, Intent { dat=upi://mandate/... }, Intent { dat=upi:/... }, Intent { dat=juspay://pay/... }, Intent { dat=credpay://checkout/... }, Intent { act=android.intent.action.VIEW dat=content://*/... typ=application/uri }, Intent { act=com.amazon.identity.auth.device.authorization.MapAuthorizationService }, Intent { act=com.amazon.dcp.sso.action.session.users.changed }, Intent { act=android.intent.action.VIEW dat=*:/... typ=*/* }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=upi://pay/... typ=*/* }, Intent { act=android.intent.action.MAIN }, Intent { act=android.intent.action.SEND dat=content://*/... typ=*/* }, Intent { act=rzp.device_token.share }, Intent { act=androidx.browser.customtabs.CustomTabsService }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=http:/... }, Intent { act=android.intent.action.VIEW dat=market:/... }, Intent { act=com.appsflyer.referrer.INSTALL_PROVIDER }]
+    dataDir=/data/user/0/com.rapido.passenger
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.rapido.passenger/app_pccache/5/C59EFC0E35180EEF6E29690E1AB3BB0D83EA836B/pcam.jar
+        /data/user/0/com.rapido.passenger/app_pccache/5/2D30A201F189773E10817C1DD0E2DE701B917164/pcam.jar
+
+=======================================================
+--- PACKAGE: com.grofers.customerapp ---
+=======================================================
+    userId=10276
+    pkg=Package{7945828 com.grofers.customerapp}
+    queriesIntents=[Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:/... }, Intent { act=android.intent.action.VIEW dat=upi://pay/... }, Intent { act=android.intent.action.VIEW dat=zetapay://payAuth/... }, Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.PICK dat=content://*/... typ=image/* }, Intent { act=com.amazon.identity.auth.device.authorization.MapAuthorizationService }, Intent { act=com.amazon.dcp.sso.action.session.users.changed }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=com.amazon.mShop.kuber.service.PREFETCH_SERVICE }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:/... }, Intent { act=android.intent.action.INSERT dat=content://*/... typ=vnd.android.cursor.dir/event }, Intent { act=android.intent.action.VIEW dat=sms:xx }, Intent { act=android.intent.action.DIAL }, Intent { act=com.appsflyer.referrer.INSTALL_PROVIDER }]
+    dataDir=/data/user/0/com.grofers.customerapp
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.bigbasket.mobileapp ---
+=======================================================
+    userId=10297
+    pkg=Package{7ac5e90 com.bigbasket.mobileapp}
+    queriesPackages=[com.bigbasket.saathi, com.bigbasket.mobileapp.bblit, in.amazon.mShop.android.shopping, com.android.chrome, com.truecaller, com.truecaller.debug, com.tatadigital.tcp.dev, com.tatadigital.tcp, com.facebook.katana, com.google.android.apps.maps, com.noshufou.android.su, com.noshufou.android.su.elite, eu.chainfire.supersu, com.koushikdutta.superuser, com.thirdparty.superuser, com.yellowes.su, com.topjohnwu.magisk, com.devadvance.rootcloak, com.devadvance.rootcloak2, com.devadvance.rootcloakplus, de.robv.android.xposed.installer, com.saurik.substrate, com.zachspong.temprootremovejb, com.amphoras.hidemyroot, com.amphoras.hidemyrootadfree, com.formyhm.hiderootPremium, com.formyhm.hideroot, com.kingroot.kinguser, com.kingo.root, com.smedialink.oneclickroot, com.zhiqupk.root.global, com.alephzain.framaroot, me.yourbay.airfrozen, me.weishu.kernelsu, me.bmax.apatch, com.koushikdutta.rommanager, com.koushikdutta.rommanager.license, com.dimonvideo.luckypatcher, com.chelpus.lackypatch, com.ramdroid.appquarantine, com.ramdroid.appquarantinepro, com.chelpus.luckypatcher, eu.chainfire.stickmount, eu.chainfire.mobileodin.pro, eu.chainfire.liveboot, eu.chainfire.pryfi, eu.chainfire.adbd, eu.chainfire.recently, eu.chainfire.flash, eu.chainfire.stickmount.pro, eu.chainfire.triangleaway, com.android.vending.billing.InAppBillingService.COIN, com.android.vending.billing.InAppBillingService.LUCK, com.allinone.free, com.baseappfull.fwd, com.dv.marketmod.installer, cc.madkite.freedom, com.solohsu.android.edxp.manager, org.meowcat.edxposed.manager, com.xmodgame, com.cih.game_cih, com.charles.lpoqasert, catch_.me_.if_.you_.can_, com.anydesk.anydeskandroid, com.teamviewer.quicksupport.market, com.teamviewer.host.market, com.sand.airdroid, com.splashtop.sos, com.splashtop.remote.business, com.splashtop.remote.pad.v2, com.zoho.assist, com.koushikdutta.vysor, com.sand.airdroidbiz, com.splashtop.streamer.csrs, com.zoho.remoteplugin.universal, com.zoho.vault, com.zoho.remoteplugin.unattended, com.teamviewer.quicksupport.addon.universal, com.anydesk.adcontrol.ad1, com.sand.airdroidkids, com.applisto.appcloner]
+    queriesIntents=[Intent { dat=upi://pay/... }, Intent { dat=upi://mandate/... }, Intent { dat=upi:/... }, Intent { dat=juspay://pay/... }, Intent { dat=credpay://checkout/... }, Intent { act=android.intent.action.VIEW dat=http:/... }, Intent { act=android.intent.action.VIEW dat=https:/... }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:/... }, Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.GET_CONTENT dat=content://*/... typ=image/* }, Intent { act=android.intent.action.PICK dat=content://*/... typ=image/* }, Intent { act=android.intent.action.CHOOSER }, Intent { act=android.intent.action.SENDTO dat=*:/... }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { act=com.amazon.mShop.kuber.service.PREFETCH_SERVICE }, Intent { dat=nb://pay/... }, Intent { act=android.intent.action.VIEW dat=content://*/... typ=application/uri }, Intent { act=com.amazon.identity.auth.device.authorization.MapAuthorizationService }, Intent { act=com.amazon.dcp.sso.action.session.users.changed }]
+    dataDir=/data/user/0/com.bigbasket.mobileapp
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.bard ---
+=======================================================
+    userId=10353
+    pkg=Package{a82aaec com.google.android.apps.bard}
+    dataDir=/data/user/0/com.google.android.apps.bard
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.deniscerri.ytdl ---
+=======================================================
+    userId=10397
+    pkg=Package{8d57da9 com.deniscerri.ytdl}
+    dataDir=/data/user/0/com.deniscerri.ytdl
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.flipkart.android ---
+=======================================================
+    userId=10254
+    pkg=Package{29d969e com.flipkart.android}
+    queriesPackages=[com.google.ar.core, com.google.android.googlequicksearchbox, com.google.android.apps.nbu.paisa.user, com.truecaller, com.truecaller.debug, com.instagram.android, com.whatsapp, com.twitter.android, com.phonepe.app, com.phonepe.app.preprod, com.facebook.katana, com.facebook.lite, com.samsung.android.mapsagent, com.tatadigital.tcp.dev, com.tatadigital.tcp]
+    dataDir=/data/user/0/com.flipkart.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.vgfit.yoga ---
+=======================================================
+    userId=10314
+    pkg=Package{a7df1fe com.vgfit.yoga}
+    dataDir=/data/user/0/com.vgfit.yoga
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.twitter.android ---
+=======================================================
+          Authority: "user": -1
+          Authority: "user": -1
+          Path: "PatternMatcher{PREFIX: /user}"
+    userId=10277
+    pkg=Package{e930ed com.twitter.android}
+    queriesPackages=[com.whatsapp, com.android.mms, com.google.android.apps.messaging, com.google.android.apps.dynamite, com.android.email, com.google.android.gm, com.facebook.composer, com.facebook.katana, com.linkedin.android, com.tencent.mm, jp.naver.line, jp.naver.line.android, com.facebook.messenger, com.facebook.orca, com.google.android.apps.hangout, com.google.android.apps.babel, com.google.android.talk, com.snapchat.android, com.Slack, com.kakao.talk, com.discord, com.reddit.frontpage, org.telegram.messenger, com.instagram.android, net.daum.android.daum, com.amazon.mShop.android.shopping, ai.x.grok, com.einnovation.temu, com.wayfair.wayfair, com.shopify.arrive, com.google.android.apps.tv.launcherx, com.google.android.tvlauncher, com.google.android.tvrecommendations, com.google.android.apps.maps, com.avg.android.vpn, app.vava.vpn, be.mygod.vpnhotspot, best_free_easy.secure.vpn, canada.vpn, ch.protonvpn.android, co.infinitevpn.free.proxy, co.infinitysoft.vpn360, co.solovpn, com.VPN.Master, com.ace.freevpn, com.app.any.vpn, com.app.any.vpn.pro, com.app.fast.vpn, com.app.vpnmasterapp, com.appatomic.vpnhub, com.appoxide.freevpn, com.appstudio.neon.vpn.proxy, com.at0mx.veeevpn, com.avast.android.vpn, com.best.freevpnapps.vpn, com.bgpworks.vpn, com.bitdefender.vpn, com.boat.vpn.fast.unblock, com.botchanger.vpn, com.browsec.vpn, com.chengcheng.FreeVPN, com.cloudflare.onedotonedotonedotone, com.color.colorvpn, com.drago.vpn, com.dyer.secvpn, com.eagleheart.amanvpn, com.encrypt.vpn.secure.servers.proxy, com.expressvpn.vpn, com.fast.free.unblock.secure.vpn, com.fast.free.unblock.thunder.vpn, com.fast.ufovpn.proxy, com.fast.vpn.pro.android.network.app, com.fastsecure.vpnproxy.turbovpn, com.fazconapps.fastest.vpnproxymaster, com.flyvpn.vpn.free.android, com.free.fast.vpn.unblock.secure.proxy, com.free.forfamily.vpn, com.free.neo.vpn, com.free.superfast.vpn.proxy, com.free.turbo.unlimited.touch.vpn, com.free.unblock.melon.vpn, com.free.unlimited.hotspot.vpn, com.free.unlimited.lemon.vpn, com.free.vpn.fast.speed.proxy, com.free.vpn.fastvpn.securevpn, com.free.vpn.proxy.master.app, com.free.vpn.secure.proxy, com.free.vpn.super.hotspot.open, com.free.vpn.tunnel.secure, com.free.vpn.unblock.proxy.vpnmaster, com.free.vpn.vpnfree, com.freevpn.fastvpn, com.freevpn.smartvpn, com.freevpn.unblockvpn.proxy, com.freevpn.unlimited.free.vpn, com.freevpnintouch, com.freevpnmaster.vpn.exprevpn, com.fvcorp.flyclient, com.galaxylab.ss, com.gaston.greennet, com.glitchio.app_bypassvpn, com.goldenfrog.vyprvpn.app, com.hala.vpn.proxy.master, com.helalik.italy.vpn, com.hidemyass.hidemyassprovpn, com.hotbotvpn, com.ipmove.ltd.von.vbn.hub.proxy.vpnmaster.ipmove, com.ironmeta.netcapsule, com.ironmeta.security.turbo.proxy.vpntomato.pro, com.ixolit.ipvanish, com.japanvpnmasterapp.turbounlimtedproxy, com.jrzheng.supervpnfree, com.kaspersky.secure.connection, com.kuto.vpn, com.lipisoft.quickvpn, com.master.unblockweb, com.mate.vpn, com.mayi.xiaoyi, com.microvpn.usavpn, com.minidev.vpn, com.monstervpn.fastmasterproxy, com.net.app.supervpn, com.network.tools.fast.vpn, com.nocardteam.nocardvpn, com.nordvpn.android, com.northghost.touchvpn, com.oneonone.boxvpn, com.open.hotspot.vpn.free, com.pandavpn.androidproxy, com.pandavpnfree.androidproxy, com.peach.vpn, com.performarkt.staysafevpn, com.photon.vpn, com.potatovpn.free.proxy.wifi, com.prithvi.indiavpn, com.privateinternetaccess.android, com.proxyfree.ultimate.vpn, com.proxykey.vpn.app, com.proxymaster.vpn, com.psiphon3.subscription, com.rapid.vpn.proxy.app, com.rapid.vpn.unlimited.hotspot.secure, com.rygstudio.sharkvpn, com.rygstudio.smartvpn, com.safevpn.proxy.free, com.secure.proxy.freevpn, com.securevpn.vpnmasterpro, com.secureweb, com.security.xvpn.z35kb, com.sharevpn.master, com.shooravpn.fastproxy, com.shuttlevpn.free.proxy.gaming, com.simple.pro.fast.unlimited.private.vpn, com.simplexsolutionsinc.vpn_unlimited, com.skybluevpn, com.smartcode.oasvpn, com.snailvpn.androidproxy, com.speed.vpn.smart.vpnmaster.fast.pubg.tiktok, com.speedify.speedifyandroid, com.speedy.vpn, com.ss.unblock.secure.proxy.vpn, com.sticktoit, com.supermaster.vpn, com.supervpn.flashsuperproxy, com.supervpn.proxy.android, com.supervpn.vpn.free.proxy, com.surfshark.vpnclient.android, com.symantec.securewifi, com.tas.vpn.app, com.tinyhost.proxy.vpn, com.toolsforandroid.VPNPrivateProxy, com.top.vpn.free.proxy.unblock, com.tunnelbear.android, com.turbo.vpn.free.vpn, com.ufovpn.proxyultimate, com.unblock.proxy.freevpn, com.unblockproxymaster.vpn, com.unicorn.bravovpn, com.universe.nb, com.upnetvpn.gp, com.urbanvpn.android, com.usavpnproxyapp.turbofreevpnmaster, com.v2.vpn.security.free, com.vast.vpn.proxy.unblock, com.vpn.fastestvpnservice, com.vpn.free.hotspot.secure.vpnify, com.vpn.kmvpn11, com.vpn.lat, com.vpn.monstersecure, com.vpn.powervpn2, com.vpn.private.app, com.vpn.proxy.supervpn.freevpn.vpnproxy, com.vpn.super.unlimited.proxy.open.free, com.vpn.super.unlimited.proxy.vpn.free, com.vpn.supervpn.fastvpn.freevpn.vpnmaster.vpnproxy.unblockvpn.vpnserver.gloryapps, com.vpn.unlimited.free.private.access.fast.proxy.secure, com.vpn.vpnfree.vpnbrowser, com.vpn.yacoubvpn, com.vpn_tube.vpntube, com.vpnbeaver.vpn, com.vpnbottle.melon.free.unblock.fast.vpn, com.vpncapa.vpnmaster.free.unblock.vpn, com.vpnmaja.secure.vpn, com.vpnmaster.freeunblockproxy, com.vpnmaster.proxymaster, com.vpnmaster.turbovpn.freevpn, com.vpnmasterx.fast, com.vpnmasterx.free, com.vpnmasterx.pro, com.vpnoneclick.android, com.vpnper.app, com.vpnproxy.freeproxymaster.vpnmaster, com.vpnredcat.vpn, com.vpntomat.fastserver, com.westace.proxy, com.windscribe.vpn, com.x.vpn, com.xiaoming.vpn, com.xstudios.fastvpn, com.xvpn.freevpnporxyserver, com.xvvpn.connect, com.yogavpn, com.zele.proxy.vpn.fast.vpnmaster, con.hotspot.vpn.free.master, de.mobileconcepts.cyberghost, dev.darwinsoft.marsvpn, dev.darwinsoft.vpn, dev.usavpn.bestvpn.unblockwebsite, eco.tachyon.android, fast.free.vpn.com, free.proxy.private.vpnmaster, free.uaefuj.bangladeshvpn, free.unblock.prh.turbo.vpn, free.vpn.filter.unblock.proxy.hotspot.fastvpn, free.vpn.private, free.vpn.proxy.unblock.svd, free.vpn.unblock.fast.proxy.vpn.master.pro.lite, free.vpn.unblock.proxy.freenetvpn, free.vpn.unblock.proxy.freevpntop, free.vpn.unblock.proxy.securevpn, free.vpn.unblock.proxy.turbovpn, free.vpn.unblock.proxy.turbovpn.lite, free.vpn.unblock.proxy.vpn.master.pro, free.vpn.unblock.proxy.vpnmaster, free.vpn.unblock.proxy.vpnmonster, free.vpn.unblock.proxy.vpnpro, free.vpnegypt.turbo.secure.tunnel.unblock.proxy, free.vpnindia.unlimited.fast.secure.proxy.turbo, fruice.tomatovpn.security.turbo.proxy.ipchanger.unblocksites, germany.vpn, hotspotshield.android.vpn, io.wifimap.zorro.vpnapp, istark.vpn.starkreloaded, itopvpn.free.vpn.proxy, kiwivpn.connectip.ipchanger.unblocksites, lightsailvpn.freevpn.unblockproxyvpn, me.bitvpn.app, me.getbehind.android, me.skyvpn.app, mezzotek.unblock.proxy.free.snap.vpn, net.flashsoft.flashvpn.activity, net.openvpn.openvpn, net.orchid.Orchid, net.todayvpn.app, org.freevpn, org.geckonet.gecko, org.mozilla.firefox.vpn, org.sanctuary.quickconnect, pw.dschmidt.vpnapp.app, secure.unblock.unlimited.proxy.snap.hotspot.shield, super.fast.free.vpn.unblock.speedvpn, tech.hexa, unlimited.free.vpn.unblock.proxy.supernet.vpn, us.gospeed.speedvpn, us.ultrasurf.mobile.ultrasurf, vpn.china.proxy.free.tunnellight, vpn.free.unlimited.freevpn.proxy.bblite, vpn.global.free.proxy.super, vpn.hub.video.music.proxy.hotsport, vpn.proxy.super.free, vpn.russia_tap2free, vpn.speed.unblock.free.proxy, vpn.ukraine_tap2free, vpn.unblock.vpnmaster.freevpn, vpn.usa_tap2free, vpn.vpnpro.vpnbrowser, vpnproxy.freevpn.master, com.incorporateapps.fakegps.fre, com.lexa.fakegps, com.blogspot.newapphorizons.fakegps, com.marlon.floating.fake.location, org.hola.gpslocation, org.torproject.android, com.evanhe.proxymanager, team.dev.epro.proxyserver, com.teamviewer.quicksupport.market, com.teamviewer.teamviewer.market.mobile, com.teamviewer.host.market, com.zoho.assist.agent, com.logmein.rescuemobile, com.anydesk.anydeskandroid, com.google.android.launcher.layouts.genymotion, com.genymotion.genyd, com.genymotion.superuser, com.bluestacks, com.bluestacks.appmart, com.bluestacks.settings, com.bignox.app, com.nox.mopen.app, com.nox.wm.gui, com.microvirt, com.microvirt.memu, com.microvirt.tools, com.microvirt.launcher, com.android.ld, com.android.ld.virtualbox, com.ldmnq, com.andy.emulator, com.andy.remotecontrol, com.koplayer.android, com.koplayer.tools, com.smartgaga.engine, com.smartgaga.titan, com.tencent.ig, com.tencent.tmgp.pubgmhd, com.tencent.mtt, com.android.emulator, com.noshufou.android.su, com.noshufou.android.su.elite, eu.chainfire.supersu, com.koushikdutta.superuser, com.thirdparty.superuser, com.yellowes.su, com.topjohnwu.magisk, com.kingroot.kinguser, com.kingo.root, com.smedialink.oneclickroot, com.zhiqupk.root.global, com.alephzain.framaroot, com.koushikdutta.rommanager, com.koushikdutta.rommanager.license, com.dimonvideo.luckypatcher, com.chelpus.lackypatch, com.ramdroid.appquarantine, com.ramdroid.appquarantinepro, com.android.vending.billing.InAppBillingService.COIN, com.android.vending.billing.InAppBillingService.LUCK, com.chelpus.luckypatcher, com.blackmartalpha, org.blackmart.market, com.allinone.free, com.repodroid.app, org.creeplays.hack, com.baseappfull.fwd, com.zmapp, com.dv.marketmod.installer, org.mobilism.android, com.android.wp.net.log, com.android.camera.update, cc.madkite.freedom, com.solohsu.android.edxp.manager, org.meowcat.edxposed.manager, com.xmodgame, com.cih.game_cih, com.charles.lpoqasert, catch_.me_.if_.you_.can_, com.devadvance.rootcloak, com.devadvance.rootcloak2, com.devadvance.rootcloakplus, de.robv.android.xposed.installer, com.saurik.substrate, com.zachspong.temprootremovejb, com.amphoras.hidemyroot, com.amphoras.hidemyrootadfree, com.formyhm.hiderootPremium, com.formyhm.hideroot]
+    dataDir=/data/user/0/com.twitter.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.twitter.android/app_pccache/5/A676523B3E46DAB04C3DAC7B4C5781491E6DC27A/pcam.jar
+        /data/user/0/com.twitter.android/app_pccache/5/0DB12F04482D5EE6F1C4FAFDFA9C30C300995A35/pcam.jar
+
+=======================================================
+--- PACKAGE: com.google.android.apps.docs.editors.sheets ---
+=======================================================
+    userId=10270
+    pkg=Package{5d42a5 com.google.android.apps.docs.editors.sheets}
+    dataDir=/data/user/0/com.google.android.apps.docs.editors.sheets
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: net.skyscanner.android.main ---
+=======================================================
+    userId=10354
+    pkg=Package{161034e net.skyscanner.android.main}
+    queriesPackages=[com.expedia.bookings, ctrip.english, com.booking, com.hcom.android, com.agoda.mobile.consumer, com.etraveli.mytrip.android, com.ryanair.cheapflights, com.emirates.ek.android, com.skypicker.main, com.edreams.travel, com.etraveli.android, com.flyscoot.android, com.ba.mobile, com.mttnow.droid.easyjet, com.m.qr, in.goindigo.android, com.jet2.holidays, me.cleartrip.android, com.vsourz.travelup, com.lufthansa.android.lufthansa, com.mttnow.droid.transavia, com.delta.mobile.android, com.afklm.mobile.android.gomobile.klm, com.opodo.reisen, com.airfrance.android.dinamoprd, com.wingontravel.m, com.a123milhas.app, com.yatra.base, com.gm.despegar, com.gm.decolar, com.mobile.falabella, br.com.ioasys.viajanet, com.mobile.bestday, com.eztravel, com.traveloka.android, net.one97.paytm, com.interpark.shop, com.titicacacorp.triple, com.makemytrip, com.goibibo, com.tiket.gits, com.parksmt.jejuair.android16, com.google.android.apps.maps]
+    dataDir=/data/user/0/net.skyscanner.android.main
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.kadambasociety ---
+=======================================================
+    userId=10272
+    pkg=Package{dd0785 com.kadambasociety}
+    dataDir=/data/user/0/com.kadambasociety
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+
+=======================================================
+--- PACKAGE: com.nobroker.app ---
+=======================================================
+        47fc474 com.nobroker.app/.gem_pkg.ReceiveSMSBroadCastReceiver filter dfa2d9d
+    userId=10391
+    pkg=Package{969e667 com.nobroker.app}
+    queriesPackages=[in.org.npci.upiapp, com.google.android.apps.nbu.paisa.user, net.one97.paytm, com.phonepe.app, in.amazon.mShop.android.shopping, com.freecharge.android, com.upi.axispay, com.mobikwik_new, com.google.android.apps.maps, com.truecaller, com.truecaller.debug]
+    dataDir=/data/user/0/com.nobroker.app
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.labs.language.tailwind ---
+=======================================================
+    userId=10377
+    pkg=Package{5edfebf com.google.android.apps.labs.language.tailwind}
+    dataDir=/data/user/0/com.google.android.apps.labs.language.tailwind
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+
+=======================================================
+--- PACKAGE: com.piazza.android ---
+=======================================================
+    userId=10395
+    pkg=Package{22025b6 com.piazza.android}
+    dataDir=/data/user/0/com.piazza.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+
+=======================================================
+--- PACKAGE: com.discord ---
+=======================================================
+          Path: "PatternMatcher{GLOB: /users/.*}"
+          Path: "PatternMatcher{GLOB: /users/.*}"
+    userId=10284
+    pkg=Package{fdd7b43 com.discord}
+    dataDir=/data/user/0/com.discord
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.desmos.calculator ---
+=======================================================
+    userId=10257
+    pkg=Package{eb505b5 com.desmos.calculator}
+    dataDir=/data/user/0/com.desmos.calculator
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+
+=======================================================
+--- PACKAGE: com.microsoft.office.officelens ---
+=======================================================
+    userId=10352
+    pkg=Package{aad366d com.microsoft.office.officelens}
+    queriesPackages=[com.azure.authenticator, com.microsoft.identity.testuserapp, com.microsoft.windowsintune.companyportal, com.microsoft.mockauthapp, com.microsoft.mockcp, com.microsoft.mockltw, com.microsoft.appmanager, com.microsoft.office.officehub, com.microsoft.office.officehubrow, com.microsoft.office.officehubrow.internal, com.microsoft.office.onenote, com.microsoft.office.onenote.internal, com.microsoft.office.powerpoint, com.microsoft.office.powerpoint.internal, com.microsoft.office.word, com.microsoft.office.word.internal]
+    dataDir=/data/user/0/com.microsoft.office.officelens
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: org.kde.kdeconnect_tp ---
+=======================================================
+    userId=10369
+    pkg=Package{ebf9fa1 org.kde.kdeconnect_tp}
+    dataDir=/data/user/0/org.kde.kdeconnect_tp
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.techmash.playo ---
+=======================================================
+    userId=10280
+    pkg=Package{bef0edd com.techmash.playo}
+    queriesPackages=[com.google.android.youtube, com.google.android.apps.maps, com.google.android.apps.nbu.paisa.user, com.phonepe.app, net.one97.paytm, com.paytmmall, in.org.npci.upiapp, in.amazon.mShop.android.shopping, com.csam.icici.bank.imobile, com.sbi.upi, com.myairtelapp, com.icicibank.pockets, com.snapwork.hdfc, com.enstage.wibmo.hdfc, com.mobikwik_new, com.upi.axispay, com.axis.mobile, com.freecharge.android, com.samsung.android.spaymini, com.samsung.android.spay, com.dreamplug.androidapp, com.bankofbaroda.upi, com.whatsapp.w4b, com.fss.pnbpsp, com.fss.unbipsp, com.mycompany.kvb, com.fss.vijayapsp, com.dena.upi.gui, com.fss.jnkpsp, com.olive.kotak.upi, com.bsb.hike, com.fss.idfcpsp, com.YesBank, com.abipbl.upi, com.microsoft.mobile.polymer, com.finopaytech.bpayfino, com.mgs.obcbank, com.upi.federalbank.org.lotza, com.mgs.induspsp, ai.wizely.android, com.olive.dcb.upi, com.mgs.yesmerchantnative.prod, com.dbs.in.digitalbank, com.rblbank.mobank, in.chillr, com.citrus.citruspay, com.SIBMobile, com.mipay.wallet.in, com.whatsapp, com.truecaller, com.olacabs.customer, com.gbwhatsapp, com.msf.angelmobile, com.fundsindia, com.muthootfinance.imuthoot, com.angelbroking.angelwealth, org.altruist.BajajExperia, in.bajajfinservmarkets.app, in.indwealth, com.tatadigital.tcp.dev, com.tatadigital.tcp, com.facebook.katana, com.android.chrome]
+    queriesIntents=[Intent { act=android.intent.action.SENDTO cat=[android.intent.category.DEFAULT] dat=mailto:xx }, Intent { act=android.intent.action.VIEW dat=http:/... }, Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.GET_CONTENT }, Intent { act=android.intent.action.CHOOSER }, Intent { act=android.intent.action.CREATE_DOCUMENT dat=content://*/... typ=*/* }, Intent { dat=upi://pay/... }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { dat=upi://mandate/... }, Intent { dat=upi:/... }, Intent { dat=juspay://pay/... }, Intent { dat=credpay://checkout/... }, Intent { act=android.intent.action.VIEW dat=content://*/... typ=application/uri }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https:/... }, Intent { act=android.intent.action.INSERT dat=content://*/... typ=vnd.android.cursor.dir/event }, Intent { act=android.intent.action.VIEW dat=sms:xx }, Intent { act=android.intent.action.DIAL }, Intent { act=com.amazon.identity.auth.device.authorization.MapAuthorizationService }, Intent { act=com.amazon.dcp.sso.action.session.users.changed }, Intent { act=android.intent.action.VIEW dat=https:/... }, Intent { act=com.amazon.mShop.kuber.service.PREFETCH_SERVICE }]
+    dataDir=/data/user/0/com.techmash.playo
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+        /data/user/0/com.techmash.playo/app_pccache/5/4945459F87E57EAD309311D98788619DEB055ED4/pcam.jar
+        /data/user/0/com.techmash.playo/app_pccache/5/C5C51695E16746D418D06D93AB34EE27294A81A9/pcam.jar
+
+=======================================================
+--- PACKAGE: ru.zdevs.zarchiver ---
+=======================================================
+    userId=10342
+    pkg=Package{9addcfe ru.zdevs.zarchiver}
+    dataDir=/data/user/0/ru.zdevs.zarchiver
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.whatsapp ---
+=======================================================
+          Authority: "calluser": -1
+          Authority: "calluser": -1
+          Authority: "calluser": -1
+          Authority: "calluser": -1
+    userId=10259
+    pkg=Package{63aedfd com.whatsapp}
+    queriesPackages=[com.facebook.orca, com.facebook.adsmanager, com.facebook.analytics, com.facebook.talk, com.facebook.arstudio.player, com.instagram.boomerang, com.facebook.katana, com.facebook.lite, com.instagram.android, com.oculus.home, com.oculus.horizon, com.facebook.services, com.facebook.orca, com.facebook.adsmanager, com.facebook.analytics, com.facebook.talk, com.facebook.arstudio.player, com.instagram.boomerang, com.facebook.katana, com.facebook.lite, com.instagram.android, com.oculus.home, com.oculus.horizon, com.facebook.services, com.google.android.apps.pixel.relationships, com.google.android.apps.nbu.paisa.user, com.phonepe.app, net.one97.paytm, com.dreamplug.androidapp, com.mobikwik_new, in.amazon.mShop.android.shopping, in.org.npci.upiapp, com.google.android.apps.pixelmigrate, com.google.android.apps.restore, com.facebook.appmanager, com.facebook.system, com.facebook.services, com.LogiaGroup.LogiaDeck, com.whatsapp.w4b, com.meta.testing, com.google.android.apps.maps, com.facebook.stella, com.facebook.stella_debug]
+    dataDir=/data/user/0/com.whatsapp
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION ]
+      [com.android.providers.blockednumber,com.android.providers.contacts,com.android.providers.userdictionary,com.android.calllogbackup]:
+
+=======================================================
+--- PACKAGE: com.camerasideas.instashot ---
+=======================================================
+    userId=10278
+    pkg=Package{cb9501f com.camerasideas.instashot}
+    dataDir=/data/user/0/com.camerasideas.instashot
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.camerasideas.instashot/app_pccache/5/BA25D6C30EFB6C9558598E7A52C72F1AC5A5E793/pcam.jar
+        /data/user/0/com.camerasideas.instashot/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+
+=======================================================
+--- PACKAGE: com.google.android.apps.tasks ---
+=======================================================
+    userId=10390
+    pkg=Package{5f277af com.google.android.apps.tasks}
+    dataDir=/data/user/0/com.google.android.apps.tasks
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE ]
+
+=======================================================
+--- PACKAGE: in.pricehistory.app ---
+=======================================================
+    userId=10305
+    pkg=Package{7c545d2 in.pricehistory.app}
+    dataDir=/data/user/0/in.pricehistory.app
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+        /data/user/0/in.pricehistory.app/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+        /data/user/0/in.pricehistory.app/app_pccache/5/FDFFAF1835DBEDC691602F4FD7FCF27E0E4E7649/pcam.jar
+
+=======================================================
+--- PACKAGE: com.digital.bsnl.selfcare ---
+=======================================================
+    userId=10394
+    pkg=Package{8608967 com.digital.bsnl.selfcare}
+    dataDir=/data/user/0/com.digital.bsnl.selfcare
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.docs ---
+=======================================================
+    userId=10268
+    pkg=Package{9e5fca1 com.google.android.apps.docs}
+    dataDir=/data/user/0/com.google.android.apps.docs
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION ]
+
+=======================================================
+--- PACKAGE: notion.id ---
+=======================================================
+    userId=10279
+    pkg=Package{eaec87d notion.id}
+    dataDir=/data/user/0/notion.id
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.olacabs.customer ---
+=======================================================
+    userId=10249
+    pkg=Package{703ea58 com.olacabs.customer}
+    queriesIntents=[Intent { act=android.intent.action.VIEW dat=content://*/... typ=*/* }, Intent { act=android.intent.action.GET_CONTENT dat=content://*/... typ=image/* }, Intent { act=android.media.action.IMAGE_CAPTURE }, Intent { act=android.intent.action.CREATE_DOCUMENT dat=content://*/... typ=*/* }, Intent { act=com.amazon.mShop.kuber.service.PREFETCH_SERVICE }, Intent { act=android.support.customtabs.action.CustomTabsService }, Intent { dat=upi://pay/... }, Intent { dat=upi://mandate/... }, Intent { dat=upi:/... }, Intent { dat=juspay://pay/... }, Intent { dat=credpay://checkout/... }, Intent { act=android.intent.action.VIEW dat=content://*/... typ=application/uri }, Intent { act=com.amazon.identity.auth.device.authorization.MapAuthorizationService }, Intent { act=com.amazon.dcp.sso.action.session.users.changed }, Intent { act=android.intent.action.VIEW dat=*:/... typ=*/* }, Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=upi://pay/... typ=*/* }, Intent { act=android.intent.action.MAIN }, Intent { act=android.intent.action.SEND dat=content://*/... typ=*/* }, Intent { act=com.appsflyer.referrer.INSTALL_PROVIDER }]
+    dataDir=/data/user/0/com.olacabs.customer
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.docs.editors.slides ---
+=======================================================
+    userId=10269
+    pkg=Package{4926a5a com.google.android.apps.docs.editors.slides}
+    dataDir=/data/user/0/com.google.android.apps.docs.editors.slides
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP KILL_AFTER_RESTORE RESTORE_ANY_VERSION LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.nextbillion.groww ---
+=======================================================
+          Path: "PatternMatcher{PREFIX: /user}"
+          Path: "PatternMatcher{PREFIX: /user/bank-autopay}"
+          Path: "PatternMatcher{PREFIX: /user/notifications}"
+          Path: "PatternMatcher{PREFIX: /user/help}"
+          Path: "PatternMatcher{LITERAL: /user/profile/active-devices}"
+          Path: "PatternMatcher{PREFIX: /mutual-funds/user/demat-opt-out}"
+    userId=10260
+    pkg=Package{62ba4f1 com.nextbillion.groww}
+    queriesPackages=[in.amazon.mShop.android.shopping, com.upi.axispay, com.axis.mobile, com.fisglobal.bandhanupi.app, com.bankofbaroda.upi, in.org.npci.upiapp, com.canarabank.mobility, com.citiuat, com.dbs.in.digitalbank, com.olive.dcb.upi, com.finopaytech.bpayfino, com.freecharge.android, com.google.android.apps.nbu.paisa.user, com.snapwork.hdfc, com.mgs.hsbcupi, com.csam.icici.bank.imobile, com.icicibank.pockets, com.euronet.iobupi, com.mgs.induspsp, com.fss.jnkpsp, com.jio.myjio, com.mycompany.kvb, com.kvb.mobilebanking, com.lcode.smartz, com.msf.kbank.mobile, com.upi.federalbank.org.lotza, com.infrasofttech.mahaupi, com.mipay.in.wallet, com.myairtelapp, com.mobikwik_new, com.onymy.paybee.prod, net.one97.paytm, com.phonepe.app, com.Version1, com.samsung.android.spay, com.sbi.upi, com.SIBMobile, com.truecaller, com.infrasoft.uboi, com.lcode.ucoupi, com.YesBank, com.dreamplug.androidapp, money.bullet, androidx.test.orchestrator, androidx.test.services, com.google.android.apps.common.testing.services, com.facebook.katana, com.instagram.android, com.facebook.lite, com.samsung.android.mapsagent, com.google.android.apps.nbu.paisa.user, com.phonepe.app, com.sbi.lotusintouch, net.one97.paytm, in.org.npci.upiapp, com.csam.icici.bank.imobile, com.snapwork.hdfc, in.amazon.mShop.android.shopping, com.google.android.apps.nbu.paisa.user, com.sbi.lotusintouch, com.phonepe.app, net.one97.paytm, in.org.npci.upiapp, in.amazon.mShop.android.shopping, com.csam.icici.bank.imobile, com.sbi.upi, com.myairtelapp, com.icicibank.pockets, com.snapwork.hdfc, com.enstage.wibmo.hdfc, com.mobikwik_new, com.upi.axispay, com.axis.mobile, com.freecharge.android, com.samsung.android.spaymini, com.samsung.android.spay, com.dreamplug.androidapp, com.bankofbaroda.upi, com.whatsapp.w4b, com.fss.pnbpsp, com.fss.unbipsp, com.mycompany.kvb, com.fss.vijayapsp, com.dena.upi.gui, com.fss.jnkpsp, com.olive.kotak.upi, com.bsb.hike, com.fss.idfcpsp, com.YesBank, com.abipbl.upi, com.microsoft.mobile.polymer, com.finopaytech.bpayfino, com.mgs.obcbank, com.upi.federalbank.org.lotza, com.mgs.induspsp, ai.wizely.android, com.olive.dcb.upi, com.mgs.yesmerchantnative.prod, com.dbs.in.digitalbank, com.rblbank.mobank, in.chillr, com.citrus.citruspay, com.SIBMobile, com.mipay.wallet.in, com.whatsapp, com.truecaller, com.olacabs.customer, com.gbwhatsapp, com.msf.angelmobile, com.fundsindia, com.muthootfinance.imuthoot, com.angelbroking.angelwealth, org.altruist.BajajExperia, in.bajajfinservmarkets.app, com.android.phone]
+    dataDir=/data/user/0/com.nextbillion.groww
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: sixpack.sixpackabs.absworkout ---
+=======================================================
+    userId=10298
+    pkg=Package{3f78699 sixpack.sixpackabs.absworkout}
+    dataDir=/data/user/0/sixpack.sixpackabs.absworkout
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/sixpack.sixpackabs.absworkout/app_pccache/5/FDFFAF1835DBEDC691602F4FD7FCF27E0E4E7649/pcam.jar
+        /data/user/0/sixpack.sixpackabs.absworkout/app_pccache/5/0DB12F04482D5EE6F1C4FAFDFA9C30C300995A35/pcam.jar
+
+=======================================================
+--- PACKAGE: com.jio.myjio ---
+=======================================================
+    userId=10252
+    pkg=Package{bef8b22 com.jio.myjio}
+    queriesPackages=[com.whatsapp.w4b, com.whatsapp, com.jio.jiopay.upi, com.meesho.supply, com.ak.ta.dainikbhaskar.activity, com.myntra.android, com.mventus.selfcare.activity, in.startv.hotstar, com.sonyliv, com.graymatrix.did, com.netflix.mediaclient, com.radio.pocketfm, com.bsbportal.music, com.jio.media.ondemand, com.amazon.avod.thirdpartyclient, com.dream11sportsguru, com.jio.media.jiobeats, com.anydesk.anydeskandroid, com.google.chromeremotedesktop, com.microsoft.rdc.android, com.microsoft.rdc.android.beta, com.splashtop.remote.pad.v2, com.teamviewer.teamviewer.market.mobile, com.teamviewer.host.market, com.sand.airdroid, com.realvnc.viewer.android, com.zoho.assist, com.logmein.ignitionpro.android, com.prosoftnet.rpcnew, com.freerdp.afreerdp, com.screenconnect.androidclient, p.alpemixtest8, com.deskroll.client1, com.awesun.control, com.terminalserviceplus.mobile, com.Relmtech.Remote, com.sand.airmirror, com.tatvik.airmirror.airmirroandroidappdemo, incendo.vectir.androidclient, com.prosoftnet.rpcnew, com.phonepe.app, com.google.android.apps.nbu.paisa.user, net.one97.paytm, com.dreamplug.androidapp, com.dreamplug.cred, in.amazon.mShop.android.shopping, in.org.npci.upiapp, com.sbi.upi, com.csam.icici.bank.imobile, com.mobikwik_new, money.jupiter, indwin.c3.shareapp, com.jio.myjio, com.jio.enterprise.myJio, com.jio.enterprise.jiopay, in.jfs.jiofinance, in.jfs.staging.jiofinance, com.jpl.myjio.uat, com.jio.jioplay.tv, com.jio.jiostreamminisdk, com.jio.jiogames, com.google.android.apps.tv.launcherx, com.google.android.tvlauncher, com.google.android.tvrecommendations, com.facebook.katana, com.google.android.apps.maps, androidx.test.orchestrator, androidx.test.services, com.google.android.apps.common.testing.services]
+    dataDir=/data/user/0/com.jio.myjio
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.jio.myjio/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+
+=======================================================
+--- PACKAGE: com.Splitwise.SplitwiseMobile ---
+=======================================================
+    userId=10301
+    pkg=Package{283fa6f com.Splitwise.SplitwiseMobile}
+    dataDir=/data/user/0/com.Splitwise.SplitwiseMobile
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+
+=======================================================
+--- PACKAGE: in.stablemoney.app ---
+=======================================================
+    userId=10247
+    pkg=Package{e55ce03 in.stablemoney.app}
+    dataDir=/data/user/0/in.stablemoney.app
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.adobe.scan.android ---
+=======================================================
+    userId=10275
+    pkg=Package{9f878b3 com.adobe.scan.android}
+    dataDir=/data/user/0/com.adobe.scan.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.adobe.scan.android/app_pccache/5/A410D6CBF665646817609CD2009C03000EA43564/pcam.jar
+        /data/user/0/com.adobe.scan.android/app_pccache/5/EC67D41EE23643D93D834DBF0079508DFD787FC0/pcam.jar
+
+=======================================================
+--- PACKAGE: io.metamask ---
+=======================================================
+    userId=10246
+    pkg=Package{56e1fd io.metamask}
+    dataDir=/data/user/0/io.metamask
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.whereismytrain.android ---
+=======================================================
+    userId=10251
+    pkg=Package{a5c0a97 com.whereismytrain.android}
+    dataDir=/data/user/0/com.whereismytrain.android
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+
+=======================================================
+--- PACKAGE: com.ttxapps.drivesync ---
+=======================================================
+    userId=10271
+    pkg=Package{7b65523 com.ttxapps.drivesync}
+    dataDir=/data/user/0/com.ttxapps.drivesync
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+        /data/user/0/com.ttxapps.drivesync/app_pccache/5/FDFFAF1835DBEDC691602F4FD7FCF27E0E4E7649/pcam.jar
+        /data/user/0/com.ttxapps.drivesync/app_pccache/5/0DB12F04482D5EE6F1C4FAFDFA9C30C300995A35/pcam.jar
+
+=======================================================
+--- PACKAGE: org.mozilla.fenix ---
+=======================================================
+    userId=10357
+    pkg=Package{1966b97 org.mozilla.fenix}
+    dataDir=/data/user/0/org.mozilla.fenix
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.google.android.apps.authenticator2 ---
+=======================================================
+    userId=10258
+    pkg=Package{cce6db2 com.google.android.apps.authenticator2}
+    dataDir=/data/user/0/com.google.android.apps.authenticator2
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: org.cris.aikyam ---
+=======================================================
+    userId=10393
+    pkg=Package{5d01815 org.cris.aikyam}
+    queriesPackages=[com.android.vending, com.google.android.apps.maps, com.google.android.apps.nbu.paisa.user, net.one97.paytm, com.phonepe.app, in.org.npci.upiapp]
+    dataDir=/data/user/0/org.cris.aikyam
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+
+=======================================================
+--- PACKAGE: com.chess ---
+=======================================================
+    userId=10266
+    pkg=Package{d355c65 com.chess}
+    dataDir=/data/user/0/com.chess
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+        /data/user/0/com.chess/app_pccache/5/A676523B3E46DAB04C3DAC7B4C5781491E6DC27A/pcam.jar
+        /data/user/0/com.chess/app_pccache/5/0DB12F04482D5EE6F1C4FAFDFA9C30C300995A35/pcam.jar
+
+=======================================================
+--- PACKAGE: music.ytstream.youtify ---
+=======================================================
+    userId=10289
+    pkg=Package{d021c72 music.ytstream.youtify}
+    dataDir=/data/user/0/music.ytstream.youtify
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+        /data/user/0/music.ytstream.youtify/app_pccache/5/A676523B3E46DAB04C3DAC7B4C5781491E6DC27A/pcam.jar
+        /data/user/0/music.ytstream.youtify/app_pccache/5/0DB12F04482D5EE6F1C4FAFDFA9C30C300995A35/pcam.jar

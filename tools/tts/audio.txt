@@ -1,0 +1,138 @@
+Of course. Here is a step-by-step breakdown of your Python script's functionality, presented in a logical, block-diagram-style flow.
+
+The script's primary goal is to compare radar detection data from a real-world vehicle log against data from a re-simulation (SiL) of the same scenario. It calculates matching accuracy, identifies discrepancies, and generates a comprehensive HTML report with statistics and interactive plots.
+
+Phase 1: Initialization and Setup
+This phase prepares the script for execution by setting up the environment, reading configurations, and preparing the output files.
+
+Block 1: Parse Command-Line Arguments
+
+The script starts by reading three inputs from the command line:
+
+log_path.txt: A text file containing the path to the folder with all the log files.
+
+meta_data.json: A JSON file with configuration details like software versions, simulation mode, and radar-specific thresholds.
+
+An optional output folder path. If not provided, the output is saved in the input folder.
+
+Block 2: Configuration and Environment Setup
+
+It reads the metadata from the JSON file and updates its internal config variables. This makes the script adaptable to different test conditions.
+
+It generates a unique timestamp for the current run to ensure output files don't overwrite each other.
+
+A debug log file (.txt) is created to print detailed processing information.
+
+An HTML report header is created, including a title, metadata summary, and a glossary defining key terms like "Accuracy" and "Match".
+
+Block 3: Discover and Pair Log Files
+
+The script scans the specified input folder.
+
+It looks for four types of CSV files: Detection (DET), Raw Doppler Data (RDD), Clutter Detection and Classification (CDC), and Vehicle State Estimation (VSE).
+
+It intelligently pairs the vehicle log files (input) with their corresponding simulation log files (output) based on their filenames.
+
+Phase 2: Per-Log Data Processing Loop
+The script iterates through each pair of vehicle/simulation logs found in the previous phase. The following steps are performed for each log.
+
+Block 4: Load and Pre-process DET and RDD Data
+
+Read CSVs: It reads the DET (detection) and RDD (raw data) CSV files for both the vehicle and the simulation into pandas DataFrames.
+
+Initial Filtering: A critical cleaning step is performed:
+
+Removes rows with invalid or zero scan_index.
+
+Removes scans that have zero detections.
+
+Removes any duplicate scans to ensure data integrity.
+
+Merge: The vehicle and simulation DataFrames are merged based on a common scan_index. This aligns the data frame-by-frame, keeping only the scans that exist in both logs.
+
+Block 5: Load Optional Data (CDC and VSE)
+
+CDC Data: If the simulation mode includes 'CDC', it reads and processes the vehicle's CDC files. It calculates if any scan is "saturated" (i.e., has reached the maximum number of CDC records).
+
+VSE Data: If VSE files are present, they are loaded to later calculate the total distance traveled.
+
+Block 6: RDD Stream Matching and Analysis
+
+For each scan, the script compares the (rindx, dindx) pairs (range and doppler indices) from the vehicle's RDD data against the simulation's RDD data.
+
+It calculates two KPIs:
+
+The percentage of scans where the number of detections is identical.
+
+The percentage of scans where the actual (rindx, dindx) pairs match, and their corresponding range and range_rate values are within a defined tolerance.
+
+Phase 3: Core Detection Matching Logic
+This is the most crucial part of the script, where individual detections are matched and the final accuracy is calculated.
+
+Block 7: Link DET Data with RDD Indices
+
+The script performs a lookup. For each detection in the DET DataFrame, it finds its corresponding (rindx, dindx) from the RDD DataFrame using a shared rdd_idx.
+
+This step enriches the DET data, making it possible to match detections based on their fundamental range/doppler properties.
+
+Block 8: Final Merged DataFrame
+
+The enriched vehicle and simulation DET DataFrames are merged into one final DataFrame (final_df). This table contains all the necessary information, side-by-side, for a direct comparison.
+
+Block 9: Per-Detection Parameter Matching
+
+The script iterates through every scan in the final_df.
+
+For each vehicle detection, it searches for a corresponding simulation detection with the same (rindx, dindx) pair.
+
+If a pair is found, it performs the final check:
+
+Calculates the absolute difference (error) for range, velocity, theta (azimuth), and phi (elevation).
+
+A detection is considered a "match" only if all four of these errors are below predefined thresholds (e.g., RAN_THRESHOLD, VEL_THRESHOLD).
+
+Any errors for non-matching detections are stored in lists for later plotting.
+
+Phase 4: KPI Calculation and Reporting
+After matching is complete for a log, the script aggregates the results and generates outputs.
+
+Block 10: Calculate Final KPIs
+
+Using the match counts from the previous step, it calculates the main KPIs:
+
+Overall Accuracy: (Total Matched Detections / Total Vehicle Detections) * 100.
+
+Accuracy Excluding Saturation: Recalculates accuracy after removing scans that were flagged for CDC or range saturation. This helps isolate performance issues from known data limitations.
+
+Percentages of scans with CDC and range saturation.
+
+Block 11: Generate Plots for the Current Log (plot_stats)
+
+Using the stored error data, it generates three interactive Plotly graphs:
+
+Bar Chart: Shows the distribution of errors for range, velocity, theta, and phi. This helps visualize the magnitude and frequency of inaccuracies.
+
+Scatter Plot Matrix: Plots the errors against various detection properties (e.g., "Range Error vs. Vehicle Range"). This is powerful for identifying if errors are correlated with specific conditions (e.g., errors increase at long distances).
+
+Line Chart: Shows key metrics like accuracy and number of detections over time (against scan_index).
+
+Block 12: Update HTML Report
+
+All the calculated KPIs and the generated plots are formatted as HTML and appended to the main report string. This is done for every single log.
+
+Phase 5: Finalization and Output
+After all logs are processed, the script generates the final summary and saves the report.
+
+Block 13: Generate Summary Across All Logs
+
+Periodically (e.g., after every 50 logs) and at the very end, the script performs a final aggregation.
+
+It calculates the Scan Yield (percentage of vehicle scans available for KPI calculation) and Mileage Yield (percentage of vehicle distance covered in the simulation).
+
+It generates summary plots (plot_data_across_logs) showing the accuracy trend across all processed logs, separated by sensor type (e.g., FC, FR, RL).
+
+It creates summary tables in the HTML report highlighting logs that failed to meet a certain accuracy threshold or logs that contained data saturation. These tables are interactive and can be filtered by the user.
+
+Block 14: Write HTML File
+
+The complete HTML string, containing the header, per-log details, per-log plots, and the final summary, is written to a .html file in the output directory. The script then terminates.
