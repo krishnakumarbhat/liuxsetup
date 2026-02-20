@@ -1,0 +1,82 @@
+nohup: ignoring input
+llama_model_loader: loaded meta data with 42 key-value pairs and 398 tensors from /media/pope/projecteo/github_proj/sam_pdf/gguf_model_qwen/Qwen3-VL-4B-Thinking-Q4_K_M.gguf (version GGUF V3 (latest))
+llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+llama_model_loader: - kv   0:                       general.architecture str              = qwen3vl
+llama_model_loader: - kv   1:                               general.type str              = model
+llama_model_loader: - kv   2:                               general.name str              = Qwen3-Vl-4B-Thinking
+llama_model_loader: - kv   3:                           general.finetune str              = Thinking
+llama_model_loader: - kv   4:                           general.basename str              = Qwen3-Vl-4B-Thinking
+llama_model_loader: - kv   5:                       general.quantized_by str              = Unsloth
+llama_model_loader: - kv   6:                         general.size_label str              = 4B
+llama_model_loader: - kv   7:                            general.license str              = apache-2.0
+llama_model_loader: - kv   8:                           general.repo_url str              = https://huggingface.co/unsloth
+llama_model_loader: - kv   9:                   general.base_model.count u32              = 1
+llama_model_loader: - kv  10:                  general.base_model.0.name str              = Qwen3 VL 4B Thinking
+llama_model_loader: - kv  11:          general.base_model.0.organization str              = Qwen
+llama_model_loader: - kv  12:              general.base_model.0.repo_url str              = https://huggingface.co/Qwen/Qwen3-VL-...
+llama_model_loader: - kv  13:                               general.tags arr[str,2]       = ["unsloth", "image-text-to-text"]
+llama_model_loader: - kv  14:                        qwen3vl.block_count u32              = 36
+llama_model_loader: - kv  15:                     qwen3vl.context_length u32              = 262144
+llama_model_loader: - kv  16:                   qwen3vl.embedding_length u32              = 2560
+llama_model_loader: - kv  17:                qwen3vl.feed_forward_length u32              = 9728
+llama_model_loader: - kv  18:               qwen3vl.attention.head_count u32              = 32
+llama_model_loader: - kv  19:            qwen3vl.attention.head_count_kv u32              = 8
+llama_model_loader: - kv  20:                     qwen3vl.rope.freq_base f32              = 5000000.000000
+llama_model_loader: - kv  21:   qwen3vl.attention.layer_norm_rms_epsilon f32              = 0.000001
+llama_model_loader: - kv  22:               qwen3vl.attention.key_length u32              = 128
+llama_model_loader: - kv  23:             qwen3vl.attention.value_length u32              = 128
+llama_model_loader: - kv  24:            qwen3vl.rope.dimension_sections arr[i32,4]       = [24, 20, 20, 0]
+llama_model_loader: - kv  25:                 qwen3vl.n_deepstack_layers u32              = 3
+llama_model_loader: - kv  26:                       tokenizer.ggml.model str              = gpt2
+llama_model_loader: - kv  27:                         tokenizer.ggml.pre str              = qwen2
+llama_model_loader: - kv  28:                      tokenizer.ggml.tokens arr[str,151936]  = ["!", "\"", "#", "$", "%", "&", "'", ...
+llama_model_loader: - kv  29:                  tokenizer.ggml.token_type arr[i32,151936]  = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, ...
+llama_model_loader: - kv  30:                      tokenizer.ggml.merges arr[str,151387]  = ["Ġ Ġ", "ĠĠ ĠĠ", "i n", "Ġ t",...
+llama_model_loader: - kv  31:                tokenizer.ggml.eos_token_id u32              = 151645
+llama_model_loader: - kv  32:            tokenizer.ggml.padding_token_id u32              = 151654
+llama_model_loader: - kv  33:                tokenizer.ggml.bos_token_id u32              = 151643
+llama_model_loader: - kv  34:               tokenizer.ggml.add_bos_token bool             = false
+llama_model_loader: - kv  35:                    tokenizer.chat_template str              = {# Unsloth template fixes #}\n{%- set ...
+llama_model_loader: - kv  36:               general.quantization_version u32              = 2
+llama_model_loader: - kv  37:                          general.file_type u32              = 15
+llama_model_loader: - kv  38:                      quantize.imatrix.file str              = Qwen3-VL-4B-Thinking-GGUF/imatrix_uns...
+llama_model_loader: - kv  39:                   quantize.imatrix.dataset str              = unsloth_calibration_Qwen3-VL-4B-Think...
+llama_model_loader: - kv  40:             quantize.imatrix.entries_count u32              = 252
+llama_model_loader: - kv  41:              quantize.imatrix.chunks_count u32              = 684
+llama_model_loader: - type  f32:  145 tensors
+llama_model_loader: - type q4_K:  216 tensors
+llama_model_loader: - type q6_K:   37 tensors
+print_info: file format = GGUF V3 (latest)
+print_info: file type   = Q4_K - Medium
+print_info: file size   = 2.32 GiB (4.95 BPW) 
+llama_model_load: error loading model: error loading model architecture: unknown model architecture: 'qwen3vl'
+llama_model_load_from_file_impl: failed to load model
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/__main__.py", line 100, in <module>
+    main()
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/__main__.py", line 86, in main
+    app = create_app(
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/app.py", line 150, in create_app
+    set_llama_proxy(model_settings=model_settings)
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/app.py", line 70, in set_llama_proxy
+    _llama_proxy = LlamaProxy(models=model_settings)
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/model.py", line 31, in __init__
+    self._current_model = self.load_llama_from_model_settings(
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/server/model.py", line 250, in load_llama_from_model_settings
+    _model = create_fn(
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/llama.py", line 374, in __init__
+    internals.LlamaModel(
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/_internals.py", line 58, in __init__
+    raise ValueError(f"Failed to load model from file: {path_model}")
+ValueError: Failed to load model from file: /media/pope/projecteo/github_proj/sam_pdf/gguf_model_qwen/Qwen3-VL-4B-Thinking-Q4_K_M.gguf
+Exception ignored in: <function LlamaModel.__del__ at 0x7638eb05f910>
+Traceback (most recent call last):
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/_internals.py", line 86, in __del__
+    self.close()
+  File "/home/pope/.local/lib/python3.10/site-packages/llama_cpp/_internals.py", line 78, in close
+    if self.sampler is not None:
+AttributeError: 'LlamaModel' object has no attribute 'sampler'
