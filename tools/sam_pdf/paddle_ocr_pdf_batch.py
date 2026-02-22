@@ -298,6 +298,23 @@ def process_pdf(
     )
 
 
+def ensure_output_dir(requested_output_dir: Path) -> Path:
+    try:
+        requested_output_dir.mkdir(parents=True, exist_ok=True)
+        return requested_output_dir
+    except PermissionError:
+        if requested_output_dir.is_absolute():
+            fallback = Path.cwd() / requested_output_dir.relative_to(requested_output_dir.anchor)
+            fallback.mkdir(parents=True, exist_ok=True)
+            logger.warning(
+                "No permission to create %s. Falling back to %s",
+                requested_output_dir,
+                fallback,
+            )
+            return fallback
+        raise
+
+
 def main() -> None:
     args = parse_args()
     input_dir: Path = args.input_dir.expanduser().resolve()
@@ -306,7 +323,7 @@ def main() -> None:
     if not input_dir.exists() or not input_dir.is_dir():
         raise SystemExit(f"Input directory not found: {input_dir}")
 
-    output_dir.mkdir(parents=True, exist_ok=True)
+    output_dir = ensure_output_dir(output_dir)
 
     ocr_engine = build_ocr(lang=args.lang, device_mode=args.device)
     pdfs = find_pdfs(input_dir)

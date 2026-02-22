@@ -54,3 +54,15 @@ python3 paddle_ocr_pdf_batch.py --lang en --dpi 400 --min-score 0.62 --device au
 - `paddle_cuda_probe.py`: show Paddle CUDA visibility
 - `paddle_ocr_gpu_check.py`: run one-page OCR GPU smoke test
 - `paddle_ocr_api_check.py`: compare `predict()` and legacy `ocr()` API output
+
+## Output path permissions
+
+If you pass an unwritable absolute output path like `/sam_pdf/out_bg_test`, the script now automatically falls back to a writable folder under the current working directory:
+
+- fallback example: `<current-working-directory>/sam_pdf/out_bg_test`
+
+Recommended command:
+
+```bash
+python3 paddle_ocr_pdf_batch.py --input-dir /home/pope/Desktop/out --output-dir /home/pope/Desktop/out_bg_test --dpi 450 --min-score 0.45 --device auto
+```
