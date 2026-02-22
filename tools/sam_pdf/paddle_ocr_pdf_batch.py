@@ -16,7 +16,6 @@ import argparse
 import ctypes
 import logging
 import os
-import shutil
 import time
 from pathlib import Path
 from typing import Iterable
@@ -232,6 +231,18 @@ def add_invisible_text(page: fitz.Page, rect: fitz.Rect, text: str) -> bool:
     return True
 
 
+def add_black_underlay(page: fitz.Page) -> None:
+    page_rect = page.rect
+    shape = page.new_shape()
+    shape.draw_rect(page_rect)
+    shape.finish(
+        fill=(0, 0, 0),
+        color=None,
+        width=0,
+    )
+    shape.commit(overlay=False)
+
+
 def process_pdf(
     pdf_path: Path,
     out_path: Path,
@@ -269,16 +280,13 @@ def process_pdf(
                 modified = True
                 page_inserted += 1
 
+        add_black_underlay(page)
+        modified = True
+
         total_regions += page_inserted
         logger.info("%s page %d: inserted %d text regions", pdf_path.name, page_index, page_inserted)
 
-    if modified:
-        doc.save(out_path, garbage=4, deflate=True)
-    else:
-        doc.close()
-        shutil.copy2(pdf_path, out_path)
-        logger.warning("No text detected in %s; copied original", pdf_path)
-        return
+    doc.save(out_path, garbage=4, deflate=True, clean=False)
 
     doc.close()
     logger.info(
